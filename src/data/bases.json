@@ -1,0 +1,9 @@
+[
+  { "id": "hq", "name": "מפקדה", "logo": "assets/base-logos/mifkada.png" },
+  { "id": "bhd6", "name": "בה״ד 6", "logo": "assets/base-logos/בהד 6.png" },
+  { "id": "bhd10", "name": "בה״ד 10", "logo": "assets/base-logos/בהד 10.png" },
+  { "id": "bhd11", "name": "בה״ד 11", "logo": "assets/base-logos/בהד 11.png" },
+  { "id": "bhd13", "name": "בה״ד 13", "logo": "assets/base-logos/בהד 13.png" },
+  { "id": "bhd20", "name": "בה״ד 20", "logo": "assets/base-logos/logo20.png" },
+  { "id": "education", "name": "בה״ד חינוך", "logo": "assets/base-logos/בהד החינוך.png" }
+]

@@ -1,0 +1,11 @@
+@font-face { font-family: "Yarden"; src: url("../assets/fonts/yarden-regular-alefalefalef.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Yarden"; src: url("../assets/fonts/yarden-bold-alefalefalef.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+:root { font-family: "Yarden", sans-serif; color: #ad3853; background: #f8e4e1; font-synthesis: none; --burgundy: #ad3853; --burgundy-dark: #8d2941; --pink: #f8e4e1; --pink-strong: #eab1bc; --white: #fffafa; }
+* { box-sizing: border-box; }
+html { direction: rtl; scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; background: var(--pink); }
+button, input, select, textarea { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { color: inherit; }
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; user-select: none; -webkit-user-drag: none; }

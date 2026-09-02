@@ -1,0 +1,63 @@
+[
+  {
+    "id": "batash",
+    "title": "מארז בט״ש",
+    "developer": "גילי נחום, ירין טובול, צאלה בלמקר, רעות מנה",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2026,
+    "completionDate": "2026-06-10",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "מארז לומדות לקורס בט״ש בעזרתו החניכים יכולים ללמוד את הוראות הבטיחות ו-4 סוגי כלי רכב שונים",
+    "url": "https://madortill.github.io/batash-package/",
+    "cover": "assets/course-covers/batash.png"
+  },
+  {
+    "id": "agoran",
+    "title": "לומדת עגורנים",
+    "developer": "דני שריקי",
+    "baseId": "bhd20",
+    "baseName": "בה״ד 20",
+    "year": 2025,
+    "completionDate": "2025-07-11",
+    "platforms": [
+      "desktop",
+      "mobile"
+    ],
+    "description": "לומדה המחליפה את החלק התאורטי קורס העגורנים. משלבת הסברים, שאלות ותרגולים על מנת להכין את החיילים לתרגול המעשי בקורס",
+    "url": "https://madortill.github.io/LomdatCranes/",
+    "cover": "assets/course-covers/agoran.png"
+  },
+  {
+    "id": "write-report",
+    "title": "כתיבת דוחות",
+    "developer": "קשת פרי",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2026,
+    "completionDate": "2026-06-30",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדה המלווה את הלומדים בתהליך כתיבת דוח ברור ומדויק, בעזרת דוגמאות ותרגולים.",
+    "url": "https://madortill.github.io/lomdat-traffic-reports/",
+    "cover": "assets/course-covers/writeReport.png"
+  },
+  {
+    "id": "lone-soldier",
+    "title": "הטבות החייל הבודד",
+    "developer": "גילי נחום",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2026,
+    "completionDate": "2026-08-18",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדה להשלמת משא״ן לקצינות ת״ש. מרכזת את כל הזכויות המגיעות לחיילים הבודדים בצה״ל על מנת להנגיש לצוערות את המידע",
+    "url": "https://madortill.github.io/loneSoldier/",
+    "cover": "assets/course-covers/loneSolider.png"
+  }
+]
