@@ -17,7 +17,6 @@ export default function Home({ courses, onOpenCourse }) {
     </section>
 
     <section className="what-is page-shell">
-      <h2>מה זו לומדה?</h2>
       <div className="what-layout">
         <div className="mapalit-copy"><p>מה זה לומדה?</p><img src="assets/illustrations/mapalit.png" alt="מפ״לית מדור טי״ל" /></div>
         <div className="computer-copy"><img src="assets/illustrations/computer.svg" alt="" /><p>לומדה היא חוויית למידה דיגיטלית ואינטראקטיבית שמעבירה תוכן בצורה ברורה ומעניינת, באמצעות שילוב של הסברים, סרטונים, משחקים, תרגולים וסימולציות בהתאם למטרת הלמידה.</p></div>

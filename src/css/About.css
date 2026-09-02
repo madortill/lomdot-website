@@ -1,7 +1,7 @@
 .about-container {
   position: absolute;
   top: 0.65rem;
-  left: 0;
+  left: 0.25rem;
   z-index: 8;
   color: var(--burgundy);
 }
@@ -20,14 +20,14 @@
 
 .about-button {
   display: grid;
-  width: 3.5rem;
-  height: 3.5rem;
+  width: 2.75rem;
+  height: 2.75rem;
   place-items: center;
   border-radius: 50%;
   color: var(--burgundy);
   background: #e8a5b3;
   font-family: "Times New Roman", Times, serif;
-  font-size: 2.5rem;
+  font-size: 1.9rem;
   line-height: 1;
   transition: transform 0.25s ease, background-color 0.25s ease;
 }
@@ -45,7 +45,7 @@
 }
 
 .about-label {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -87,7 +87,7 @@
 
 h3.about-item {
   margin-top: 0.6rem;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 h3.about-item:first-child {
@@ -95,7 +95,7 @@ h3.about-item:first-child {
 }
 
 p.about-item {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 .about-item:hover {
@@ -104,8 +104,11 @@ p.about-item {
 
 @media (max-width: 37.5rem) {
   .about-container {
-    top: 0.45rem;
-    left: 0;
+    position: relative;
+    top: auto;
+    left: auto;
+    width: max-content;
+    margin: 0 auto 0.65rem 0;
   }
 
   .about-button {
@@ -120,6 +123,7 @@ p.about-item {
 
   .about-panel {
     top: 3.7rem;
+    left: 0;
     width: min(14rem, calc(100vw - 2rem));
   }
 }
