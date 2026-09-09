@@ -2,7 +2,7 @@
   {
     "id": "batash",
     "title": "מארז בט״ש",
-    "developer": "גילי נחום, ירין טובול, צאלה בלמקר, רעות מנה",
+    "developer": "גילי נחום, ירין חנה טובול, צאלה בלמקר, רעות מנה",
     "baseId": "bhd6",
     "baseName": "בה״ד 6",
     "year": 2026,
@@ -59,5 +59,156 @@
     "description": "לומדה להשלמת משא״ן לקצינות ת״ש. מרכזת את כל הזכויות המגיעות לחיילים הבודדים בצה״ל על מנת להנגיש לצוערות את המידע",
     "url": "https://madortill.github.io/loneSoldier/",
     "cover": "assets/course-covers/loneSolider.png"
+  },
+  {
+    "id": "supply-chain",
+    "title": "לומדת שרשרת האספקה",
+    "developer": "קשת פרי",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2026,
+    "completionDate": "2026-09-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "",
+    "url": "https://madortill.github.io/lomdat-supply-chain/",
+    "cover": "assets/course-covers/supply-chain.png"
+  },
+  {
+    "id": "lomdat-klia",
+    "title": "לומדת אסמכתאות כליאה",
+    "developer": "ירין חנה טובול",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2026,
+    "completionDate": "2026-07-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת לקורס כליאה המיועדת ללמד את החיילים את חשיבות אסמכתאות הכליאה. החיילים לומדים על המסמכים השונים ואת חשיבותם והשפעתם על המשך התהליך של העצור.",
+    "url": "https://madortill.github.io/lomdat-klia-Bahad13/",
+    "cover": "assets/course-covers/lomdat-klia.png"
+  },
+  {
+    "id": "onePratLomda",
+    "title": "לומדת דו״ח 1",
+    "developer": "גילי נחום",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2026,
+    "completionDate": "2026-06-10",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "הלומדה מלמדת את קצינות המשא״ן על חשיבותו של דו״ח 1 ואיך לנהל אותו כראוי. הלומדה עוברת בהשלמת קצונת משא״ן.",
+    "url": "https://madortill.github.io/onePratLomda/",
+    "cover": "assets/course-covers/onePratLomda.png"
+  },
+  {
+    "id": "tironot-education",
+    "title": "לומדת השלמת תכני טירונות",
+    "developer": "מאיה מרום",
+    "baseId": "education",
+    "baseName": "בה״ד חינוך",
+    "year": 2026,
+    "completionDate": "2026-05-05",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "",
+    "url": "https://madortill.github.io/complete-tironot-education/",
+    "cover": "assets/course-covers/tironot-education.png"
+  },
+  {
+    "id": "heter-hul",
+    "title": "לומדת היתר חו״ל",
+    "developer": "מאיה מרום",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2026,
+    "completionDate": "2026-06-23",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "",
+    "url": "https://madortill.github.io/lomdat-heter-hul/",
+    "cover": "assets/course-covers/heter-hul.png"
+  },
+  {
+    "id": "traffic-package",
+    "title": "מארז לומדות תעבורה",
+    "developer": "קשת פרי",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2026,
+    "completionDate": "2026-06-30",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "",
+    "url": "https://madortill.github.io/traffic-learning-package/",
+    "cover": "assets/course-covers/traffic-package.png"
+  },
+  {
+    "id": "web-basseRules-mifkada",
+    "title": "פנקס כיס סדרי בראשית",
+    "developer": "הלה צביון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-11-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פנקס כיס המכיל בתוכו את כל הנהלים והמידע על השירות במפקדת שקריית ההדרכה. מתעדכן על פי צורך בתדירות גבוהה. פותח בעזרת מחולל הלומדות.",
+    "url": "https://madortill.github.io/web-basseRules-mifkada/code/",
+    "cover": "assets/course-covers/web-basseRules-mifkada.png"
+  },
+  {
+    "id": "mida-lhaial-hadati",
+    "title": "מידע לחייל הדתי",
+    "developer": "הלה צביון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-01-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פקלון מידע לחייל הדתי במפקדת קריית ההדרכה. המכיל את המידע והזכויות של כל חייל דתי ומופץ לחיילים הרלוונטים. מתעדכן על פי צורך. פותח בעזרת מחולל הלומדות.",
+    "url": "https://madortill.github.io/mida-lhaial-hadati/code/",
+    "cover": "assets/course-covers/mida-lhaial-hadati.png"
+  },
+  {
+    "id": "lomdat-gviat-amra",
+    "title": "לומדת גביית אמרה",
+    "developer": "מאיה מרום",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2025,
+    "completionDate": "2025-12-10",
+    "platforms": [
+      "desktop",
+      "mobile"
+    ],
+    "description": "",
+    "url": "https://madortill.github.io/lomdat-gviat-amra/",
+    "cover": "assets/course-covers/lomdat-gviat-amra.png"
+  },
+  {
+    "id": "MentoringPackage",
+    "title": "מארז החניכה",
+    "developer": "דני שריקי, גילי גורדון, אדוה אבא, דורון הרפז, גילי נחום",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2025,
+    "completionDate": "2025-05-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "מארז הכולל 5 לומדות בנושא מעגל החניכה. המארז פותח עבור קורס צפ״ה. מעגל החניכה כולל 5 שלבים ועל כל אחד מהם קיימת לומדה שונה: יסודות החניכה, הכנה עצמית ותדריך, משוב, עיבוד ותצפית",
+    "url": "https://madortill.github.io/MentoringPackage/",
+    "cover": "assets/course-covers/MentoringPackage.png"
   }
 ]
