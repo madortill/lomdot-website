@@ -8,7 +8,7 @@ function ContactCard({ contact, type }) {
   return (
     <article className={`contact-card contact-card--${type}`}>
       <div className="contact-icon">
-        <img src="assets/illustrations/Lace.png" alt="" />
+        <img src={type === "base" ? contact.logo : "assets/illustrations/Lace.png"} alt="" />
       </div>
       <h2>{contact.title}</h2>
       <p>{contact.rank} {contact.name}</p>

@@ -9,7 +9,23 @@ const processSteps = [
   ["פגישת סיום והפצה", "מאשרים יחד את התוצר הסופי ומפיצים את הלומדה לקהל היעד."],
 ];
 
-export default function ProcessSteps({ compact = false }) {
-  const visibleSteps = compact ? processSteps.slice(0, 4) : processSteps;
-  return <section className="process-section"><h2>איך נולדת לומדה?</h2><div className="process-grid">{visibleSteps.map(([title, text], index) => <article className={`process-step ${index >= 4 ? "process-step--production" : "process-step--planning"}`} key={title}><h3>{title}</h3><p>{text}</p></article>)}</div></section>;
+export default function ProcessSteps() {
+  return (
+    <section className="process-section" aria-labelledby="process-title">
+      <h2 id="process-title">איך נולדת לומדה?</h2>
+      <p className="process-hint">מהרעיון ועד ההפצה — 8 שלבים <span>· גללו שמאלה להמשך התהליך ←</span></p>
+      <div className="process-scroll" tabIndex={0} role="region" aria-label="שלבי יצירת לומדה">
+        <ol className="process-grid">
+          {processSteps.map(([title, text], index) => (
+            <li className={`process-step ${index >= 4 ? "process-step--production" : "process-step--planning"}`} key={title}>
+              <span className="process-number" aria-hidden="true">{index + 1}</span>
+              <h3>{title}</h3>
+              <p>{text}</p>
+              {index < processSteps.length - 1 && <span className="process-arrow" aria-hidden="true">←</span>}
+            </li>
+          ))}
+        </ol>
+      </div>
+    </section>
+  );
 }

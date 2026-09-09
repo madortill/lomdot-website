@@ -41,7 +41,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדה המלווה את הלומדים בתהליך כתיבת דוח ברור ומדויק, בעזרת דוגמאות ותרגולים.",
+    "description":"לומדה לקורס שוטרים צבאיים, מלמדת את החיילים איך לכתוב דוח מ״צ כראוי. הלומדה מועברת כחלק ממארז לומדות.",
     "url": "https://madortill.github.io/lomdat-traffic-reports/",
     "cover": "assets/course-covers/writeReport.png"
   },

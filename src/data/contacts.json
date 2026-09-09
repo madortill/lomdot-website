@@ -24,7 +24,8 @@
       "rank": "דרגה",
       "name": "שם לדוגמה",
       "position": "תפקיד לדוגמה",
-      "phone": "050-0000000"
+      "phone": "050-0000000",
+      "logo": "assets/base-logos/bahad6-pink.png"
     },
     {
       "id": "bhd10",
@@ -32,7 +33,8 @@
       "rank": "דרגה",
       "name": "שם לדוגמה",
       "position": "תפקיד לדוגמה",
-      "phone": "050-0000000"
+      "phone": "050-0000000",
+      "logo": "assets/base-logos/bahad10-pink.png"
     },
     {
       "id": "bhd11",
@@ -40,7 +42,8 @@
       "rank": "דרגה",
       "name": "שם לדוגמה",
       "position": "תפקיד לדוגמה",
-      "phone": "050-0000000"
+      "phone": "050-0000000",
+      "logo": "assets/base-logos/bahad11-pink.png"
     },
     {
       "id": "bhd13",
@@ -48,7 +51,8 @@
       "rank": "דרגה",
       "name": "שם לדוגמה",
       "position": "תפקיד לדוגמה",
-      "phone": "050-0000000"
+      "phone": "050-0000000",
+      "logo": "assets/base-logos/bahad13-pink.png"
     },
     {
       "id": "bhd20",
@@ -56,7 +60,8 @@
       "rank": "דרגה",
       "name": "שם לדוגמה",
       "position": "תפקיד לדוגמה",
-      "phone": "050-0000000"
+      "phone": "050-0000000",
+      "logo": "assets/base-logos/bahad20-pink.png"
     },
     {
       "id": "education",
@@ -64,7 +69,8 @@
       "rank": "דרגה",
       "name": "שם לדוגמה",
       "position": "תפקיד לדוגמה",
-      "phone": "050-0000000"
+      "phone": "050-0000000",
+      "logo": "assets/base-logos/bahadHinuch-pink.png"
     }
   ]
 }

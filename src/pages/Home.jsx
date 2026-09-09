@@ -22,7 +22,7 @@ export default function Home({ courses, onOpenCourse }) {
         <div className="computer-copy"><img src="assets/illustrations/computer.svg" alt="" /><p>לומדה היא חוויית למידה דיגיטלית ואינטראקטיבית שמעבירה תוכן בצורה ברורה ומעניינת, באמצעות שילוב של הסברים, סרטונים, משחקים, תרגולים וסימולציות בהתאם למטרת הלמידה.</p></div>
       </div>
     </section>
-    <ProcessSteps compact />
+    <ProcessSteps />
     <Footer />
   </>;
 }

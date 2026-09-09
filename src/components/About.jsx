@@ -37,7 +37,6 @@ export default function About() {
       >
         <h3 className="about-item">מפתחות האתר:</h3>
         <p className="about-item">סמל גילי נחום</p>
-        <p className="about-item">סמל מאיה מרום</p>
 
         <h3 className="about-item">רמ״ד טי״ל:</h3>
         <p className="about-item">סמ״ר קטיה מדבדב</p>
