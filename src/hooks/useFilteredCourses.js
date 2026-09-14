@@ -16,13 +16,13 @@ export default function useFilteredCourses(courses, fixedBase = "") {
   const [year, setYear] = useState("");
   const [platform, setPlatform] = useState("");
   const [sort, setSort] = useState("newest");
-  const years = [...new Set(courses.map((course) => course.year))].sort((a, b) => b - a);
+  const years = [...new Set(courses.map((course) => course.year).filter(Number.isFinite))].sort((a, b) => b - a);
   const filtered = useMemo(
     () => courses
       .filter((course) => (!query.trim() || course.title.includes(query.trim()))
         && (!base || course.baseId === base)
         && (!year || course.year === Number(year))
-        && (!platform || course.platforms.includes(platform)))
+        && (!platform || course.platforms?.includes(platform)))
       .sort((a, b) => sort === "oldest"
         ? getCompletionTimestamp(a) - getCompletionTimestamp(b)
         : sort === "az"

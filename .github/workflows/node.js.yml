@@ -9,6 +9,10 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Refresh the public course catalog once a day.
+  schedule:
+    - cron: "17 4 * * *"
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -35,8 +39,11 @@ jobs:
           node-version: 20.x
           cache: 'npm'
       - name: npm install + npm run build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npm ci
+          npm run sync:courses
           npm run build --if-present
       - name: Upload artifact to gh-pages
         uses: actions/upload-pages-artifact@v3

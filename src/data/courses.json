@@ -12,7 +12,8 @@
     ],
     "description": "מארז לומדות לקורס בט״ש בעזרתו החניכים יכולים ללמוד את הוראות הבטיחות ו-4 סוגי כלי רכב שונים",
     "url": "https://madortill.github.io/batash-package/",
-    "cover": "assets/course-covers/batash.png"
+    "cover": "assets/course-covers/batash.png",
+    "repository": "https://github.com/madortill/batash-package"
   },
   {
     "id": "agoran",
@@ -41,7 +42,7 @@
     "platforms": [
       "desktop"
     ],
-    "description":"לומדה לקורס שוטרים צבאיים, מלמדת את החיילים איך לכתוב דוח מ״צ כראוי. הלומדה מועברת כחלק ממארז לומדות.",
+    "description": "לומדה לקורס שוטרים צבאיים, מלמדת את החיילים איך לכתוב דוח מ״צ כראוי. הלומדה מועברת כחלק ממארז לומדות.",
     "url": "https://madortill.github.io/lomdat-traffic-reports/",
     "cover": "assets/course-covers/writeReport.png"
   },
@@ -58,7 +59,8 @@
     ],
     "description": "לומדה להשלמת משא״ן לקצינות ת״ש. מרכזת את כל הזכויות המגיעות לחיילים הבודדים בצה״ל על מנת להנגיש לצוערות את המידע",
     "url": "https://madortill.github.io/loneSoldier/",
-    "cover": "assets/course-covers/loneSolider.png"
+    "cover": "assets/course-covers/loneSolider.png",
+    "repository": "https://github.com/madortill/loneSoldier"
   },
   {
     "id": "supply-chain",
@@ -71,9 +73,10 @@
     "platforms": [
       "desktop"
     ],
-    "description": "",
+    "description": "לומדת שרשרת האספקה, בה\"ד 6, קשת פרי",
     "url": "https://madortill.github.io/lomdat-supply-chain/",
-    "cover": "assets/course-covers/supply-chain.png"
+    "cover": "assets/course-covers/supply-chain.png",
+    "repository": "https://github.com/madortill/lomdat-supply-chain"
   },
   {
     "id": "lomdat-klia",
@@ -116,9 +119,10 @@
     "platforms": [
       "mobile"
     ],
-    "description": "",
+    "description": "לומדת השלמת טירונות חיל חינוך- גרסה אחרי שינויים, בה\"ד חינוך, מאיה מרום",
     "url": "https://madortill.github.io/complete-tironot-education/",
-    "cover": "assets/course-covers/tironot-education.png"
+    "cover": "assets/course-covers/tironot-education.png",
+    "repository": "https://github.com/madortill/complete-tironot-education"
   },
   {
     "id": "heter-hul",
@@ -131,9 +135,10 @@
     "platforms": [
       "desktop"
     ],
-    "description": "",
+    "description": "לומדת היתר חו\"ל, בה\"ד 11, מאיה מרום",
     "url": "https://madortill.github.io/lomdat-heter-hul/",
-    "cover": "assets/course-covers/heter-hul.png"
+    "cover": "assets/course-covers/heter-hul.png",
+    "repository": "https://github.com/madortill/lomdat-heter-hul"
   },
   {
     "id": "traffic-package",
@@ -209,6 +214,7 @@
     ],
     "description": "מארז הכולל 5 לומדות בנושא מעגל החניכה. המארז פותח עבור קורס צפ״ה. מעגל החניכה כולל 5 שלבים ועל כל אחד מהם קיימת לומדה שונה: יסודות החניכה, הכנה עצמית ותדריך, משוב, עיבוד ותצפית",
     "url": "https://madortill.github.io/MentoringPackage/",
-    "cover": "assets/course-covers/MentoringPackage.png"
+    "cover": "assets/course-covers/MentoringPackage.png",
+    "repository": "https://github.com/madortill/MentoringPackage"
   }
 ]

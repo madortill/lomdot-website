@@ -43,7 +43,10 @@ export default function Header({ courses, onOpenCourse }) {
       <div className="global-search" ref={dropdownRef}>
         <span aria-hidden="true">⌕</span>
         <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="חיפוש לומדה" aria-label="חיפוש לומדה" />
-        {results.length > 0 && <div className="search-results">{results.map((course) => <button key={course.id} onClick={() => { onOpenCourse(course); setQuery(""); }}>{course.title}<small>{course.baseName} · {course.year}</small></button>)}</div>}
+        {results.length > 0 && <div className="search-results">{results.map((course) => {
+          const metadata = [course.baseName, course.year].filter(Boolean).join(" · ");
+          return <button key={course.id} onClick={() => { onOpenCourse(course); setQuery(""); }}>{course.title}{metadata && <small>{metadata}</small>}</button>;
+        })}</div>}
       </div>
 
       <button className="hamburger" type="button" onClick={() => setMenuOpen((value) => !value)} aria-label="פתיחת תפריט" aria-expanded={menuOpen}><span /><span /><span /></button>

@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "sync:courses": "node scripts/sync-courses.mjs",
+    "test:course-sync": "node --test scripts/sync-courses.test.mjs"
   },
   "dependencies": {
     "react": "^19.2.0",
