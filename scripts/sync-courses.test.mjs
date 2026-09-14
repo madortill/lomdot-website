@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { extractDevelopers, extractVersionDate } from "./sync-courses.mjs";
+import { extractDevelopers, extractVersionDate, fillEmptyFields } from "./sync-courses.mjs";
 
 const PRIMARY_DEVELOPER = `
   <h3>מפתחת ראשית:</h3><p>סמל גילי נחום</p>
@@ -41,4 +41,26 @@ test("extracts an About block embedded in App.jsx", async () => {
 test("normalizes Hebrew version months to sortable dates", async () => {
   assert.equal(extractVersionDate("<h3>גרסה:</h3><p>ספטמבר 2026</p>"), "2026-09-01");
   assert.equal(extractVersionDate("<h3>גרסה:</h3><p>יוני 2026</p>"), "2026-06-01");
+});
+
+test("keeps every manual value and fills only empty fields", () => {
+  const manual = {
+    title: "כותרת ידנית",
+    description: "תיאור ידני",
+    baseId: "bhd11",
+    url: "https://example.test/correct-path/",
+    developer: "",
+  };
+  const scanned = {
+    title: "Repository title",
+    description: "Repository description",
+    baseId: "bhd13",
+    url: "https://example.test/wrong-path/",
+    developer: "גילי נחום",
+  };
+
+  assert.deepEqual(fillEmptyFields(manual, scanned), {
+    ...manual,
+    developer: "גילי נחום",
+  });
 });

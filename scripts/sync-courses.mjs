@@ -274,7 +274,7 @@ function buildCourse(repository, inspection, owner, override = {}) {
   };
 }
 
-function fillEmptyFields(existing, generated) {
+export function fillEmptyFields(existing, generated) {
   const merged = { ...existing };
   for (const [key, value] of Object.entries(generated)) {
     const current = merged[key];
@@ -350,10 +350,7 @@ export async function syncCourses(argv = process.argv.slice(2)) {
     const generatedCourse = generatedByRepository.get(repositoryName);
     if (!generatedCourse) return course;
     generatedByRepository.delete(repositoryName);
-    return {
-      ...fillEmptyFields(course, generatedCourse),
-      ...(config.overrides[generatedCourse.id] ?? {}),
-    };
+    return fillEmptyFields(course, generatedCourse);
   });
   mergedCourses.push(...generatedByRepository.values());
 
