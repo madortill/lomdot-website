@@ -35,7 +35,7 @@ export default function About() {
         className={`about-panel ${showAbout ? "about-panel--visible" : "about-panel--hidden"}`}
         aria-hidden={!showAbout}
       >
-        <h3 className="about-item">מפתחות האתר:</h3>
+        <h3 className="about-item">מפתחת האתר:</h3>
         <p className="about-item">סמל גילי נחום</p>
 
         <h3 className="about-item">רמ״ד טי״ל:</h3>

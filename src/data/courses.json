@@ -520,8 +520,8 @@
     "id": "FunLearning",
     "title": "משחוק בלמידה",
     "developer": "אדוה אבא",
-    "baseId": "hq",
-    "baseName": "מפקדה",
+    "baseId": "",
+    "baseName": "",
     "year": 2025,
     "completionDate": "2025-06-20",
     "platforms": [
@@ -565,36 +565,854 @@
     "repository": "https://github.com/madortill/RescueCalculator"
   },
   {
-    "id": "",
-    "title": "",
-    "developer": "",
-    "baseId": "",
-    "baseName": "",
-    "year": 2025,
-    "completionDate": "2025-05-01",
+    "id": "lndminesInPercepition",
+    "title": "״מוקשים״ בתפיסה",
+    "developer": "ניצן סלומון, אדוה אבא, גילי אלבז",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-10-01",
     "platforms": [
-      "desktop"
+      "mobile"
     ],
-    "description": "",
-    "url": "https://madortill.github.io/MentoringPackage/",
-    "cover": "assets/course-covers/MentoringPackage.png",
-    "repository": "https://github.com/madortill/MentoringPackage"
+    "description": "לומדת כרטיסיות לקומ״כ בבית הספר לפיקוד. הלומדה כוללת כרטיסיות לימוד בנושא ״המוקשים״ בתפיסה וגם מלווה במבחן מסכם על החומר.",
+    "url": "https://madortill.github.io/lndminesInPercepition/code/",
+    "cover": "assets/course-covers/lndminesInPercepition.png",
+    "repository": "https://github.com/madortill/lndminesInPercepition"
   },
   {
-    "id": "",
-    "title": "",
-    "developer": "",
+    "id": "CaringAndTakingCarePrat",
+    "title": "לומדת הדאגה וטיפול בפרט",
+    "developer": "ניצן סלומון, אדוה אבא, דני שריקי",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-10-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות לקומ״כ בבית הספר לפיקוד. הלומדה כוללת כרטיסיות לימוד המחולקות לשני סוגי הפיקודים (קורס, טירונים) ובה מידע התואם לכל סוג פיקוד וגם מלווה במבחן מסכם על החומר.",
+    "url": "https://madortill.github.io/CaringAndTakingCarePrat/code/",
+    "cover": "assets/course-covers/CaringAndTakingCarePrat.png",
+    "repository": "https://github.com/madortill/CaringAndTakingCarePrat"
+  },
+  {
+    "id": "CommandResponse",
+    "title": "לומדת המענה הפיקודי",
+    "developer": "ניצן סלומון, אדוה אבא, דורון הרפז, גילי גורדון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-03-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות לקומ״כ בבית הספר לפיקוד. הלומדה כוללת כרטיסיות לימוד המסכמות בצורה נוחה ונגישה את מסמך המענה הפיקודי וגם מלווה במבחן מסכם על החומר.",
+    "url": "https://madortill.github.io/CommandResponse/code/",
+    "cover": "assets/course-covers/CommandResponse.png",
+    "repository": "https://github.com/madortill/CommandResponse"
+  },
+  {
+    "id": "cardsGenerator",
+    "title": "מחולל הלומדות",
+    "developer": "תמר סטופ",
     "baseId": "",
     "baseName": "",
+    "year": 2024,
+    "completionDate": "2024-09-25",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "מחולל הלומדות של מדור טי״ל. בעזרת המחולל כל אחד יכול להכין בעצמו לומדת כרטיסיות שתתאים לצרכים שלו בקלות ובמהירות. ניתן להוסיף גם תרגול או במחן על החומר הנלמד.",
+    "url": "https://madortill.github.io/cardsGenerator/",
+    "cover": "assets/course-covers/cardsGenerator.png",
+    "repository": "https://github.com/madortill/cardsGenerator"
+  },
+  {
+    "id": "on-time",
+    "title": "טיימר",
+    "developer": "הדר יחזקאל",
+    "baseId": "hq",
+    "baseName": "מפקדה",
     "year": 2025,
     "completionDate": "2025-05-01",
     "platforms": [
       "desktop"
     ],
+    "description": "מערכת טיימר בה אפשר להיעזר על מנת לארגן את הפגישות, הכנסים וההרצאות בצורה נוחה. ניתן להכניס את הפרטים של הפגישה והמשתתפים ולהקציב לכל אחד זמן הצגה מדויק כדי לשמור על סדר הפגישה.",
+    "url": "https://madortill.github.io/on-time/",
+    "cover": "assets/course-covers/on-time.png",
+    "repository": "https://github.com/madortill/on-time"
+  },
+  {
+    "id": "conference",
+    "title": "כנס הערכה צה״לי",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-06-09",
+    "platforms": [
+      "desktop",
+      "mobile"
+    ],
+    "description": "אתר מידע שפותח עבור כנס צה״לי להערכת הדרכה 2024. באתר ניתן לקבל מידע על הכנס וגם להירשם אליו.",
+    "url": "https://madortill.github.io/conference/",
+    "cover": "assets/course-covers/conference.png",
+    "repository": "https://github.com/madortill/conference"
+  },
+  {
+    "id": "lomadtTAAM",
+    "title": "לומדת תעסוקה מבצעית",
+    "developer": "ניתן סלומון, אדוה אבא",
+    "baseId": "bhd10",
+    "baseName": "בה״ד 10",
+    "year": 2024,
+    "completionDate": "2024-03-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות העוסקת בליווי והכנת החייל לכניסה לתעסוקה מבצעית ומלווה אותו בכניסה לתפקיד. בסוף הלומדה יש מבחן שהוא תנאי מחייב לתפיסת כוננות גזרתית.",
+    "url": "https://madortill.github.io/lomadtTAAM/code/",
+    "cover": "assets/course-covers/lomadtTAAM.png",
+    "repository": "https://github.com/madortill/lomadtTAAM"
+  },
+  {
+    "id": "people-system",
+    "title": "לומדת מערכת אנשים",
+    "developer": "גילי אלבז",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2024,
+    "completionDate": "2024-01-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדה המדמה את מערכת אנשים",
+    "url": "https://madortill.github.io/people-system/",
+    "cover": "assets/course-covers/people-system.png",
+    "repository": "https://github.com/madortill/people-system"
+  },
+  {
+    "id": "learning-impairments",
+    "title": "לומדת לקויות למידה",
+    "developer": "שקד סיני",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-12-30",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת לקויות למידה שפותחה עבור קורס מב״ב דיגיטלי בבית הספר לפיקוד.",
+    "url": "https://madortill.github.io/learning-impairments/",
+    "cover": "assets/course-covers/learning-impairments.png",
+    "repository": "https://github.com/madortill/learning-impairments"
+  },
+  {
+    "id": "behaviours",
+    "title": "לומדת התנהגויות",
+    "developer": "גילי אלבז",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-08-08",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת התמודדות עם התנהוגיות הלומדים שפותחה עבור קורס מב״ב דיגיטלי בבית הספר לפיקוד.",
+    "url": "https://madortill.github.io/behaviours/",
+    "cover": "assets/course-covers/behaviours.png",
+    "repository": "https://github.com/madortill/behaviours"
+  },
+  {
+    "id": "interpersonal-communication",
+    "title": "לומדת תקשורת בין אישית",
+    "developer": "תמר שנהב",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-08-06",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת תקשורת בין אישית שפותחה עבור קורס מב״ב דיגיטלי בבית הספר לפיקוד.",
+    "url": "https://madortill.github.io/interpersonal-communication/",
+    "cover": "assets/course-covers/interpersonal-communication.png",
+    "repository": "https://github.com/madortill/interpersonal-communication"
+  },
+  {
+    "id": "tadraz",
+    "title": "לומדת יציאה הביתה",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-11-09",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת יציאה הביתה (תדר״צ). החומר מועבר באמצעות צ'אטים. הלומדה פותחה במהלך מלחמת ״חרבול ברזל״ על מנת לענות על הצורך בתדריך יציאה מקיף.",
+    "url": "https://madortill.github.io/tadraz/",
+    "cover": "assets/course-covers/tadraz.png",
+    "repository": "https://github.com/madortill/tadraz"
+  },
+  {
+    "id": "shiras-boxShadowGenerator",
+    "title": "עזר לעיצוב הצללות",
+    "developer": "שירה כהן",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-10-31",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "אתר עזר לעיצוב הצללות בעזרתו אפשר לעצב הצללה לריבוע ואז להעתיק את ה-CSS המתאים לקוד",
+    "url": "https://madortill.github.io/shiras-boxShadowGenerator/",
+    "cover": "assets/course-covers/shiras-boxShadowGenerator.png",
+    "repository": "https://github.com/madortill/shiras-boxShadowGenerator"
+  },
+  {
+    "id": "knowit-2023",
+    "title": "אתר לכנס חדשנות בלמידה",
+    "developer": "הדר יחזקאל",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-09-31",
+    "platforms": [
+      "desktop",
+      "mobile"
+    ],
+    "description": "אתר מידע והרשמה שפותח עבור כנס חדשנות בלמידה. באתר ניתן לקבל מידע על הכנס וגם להירשם אליו.",
+    "url": "https://madortill.github.io/knowit-2023/#/home",
+    "cover": "assets/course-covers/knowit-2023.png",
+    "repository": "https://github.com/madortill/knowit-2023"
+  },
+  {
+    "id": "lomdat-commanders",
+    "title": "לומדת מפקדים",
+    "developer": "מעיין אשר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-08-16",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת מפקדים לחדר בריחה",
+    "url": "https://madortill.github.io/lomdat-commanders/",
+    "cover": "assets/course-covers/lomdat-commanders.png",
+    "repository": "https://github.com/madortill/lomdat-commanders"
+  },
+  {
+    "id": "hangMan",
+    "title": "איש תלוי",
+    "developer": "ניצן סלומון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-08-15",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "טמפלייט למשחק איש תלוי",
+    "url": "https://madortill.github.io/hangMan/code/",
+    "cover": "assets/course-covers/hangMan.png",
+    "repository": "https://github.com/madortill/hangMan"
+  },
+  {
+    "id": "tools",
+    "title": "לומדת כלים",
+    "developer": "תמר סטופ",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-08-15",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כלים לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/tools/",
+    "cover": "assets/course-covers/tools.png",
+    "repository": "https://github.com/madortill/tools"
+  },
+  {
+    "id": "rules",
+    "title": "לומדת חוקים",
+    "developer": "מעיין אשר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-08-15",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת חוקים לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/rules/",
+    "cover": "assets/course-covers/rules.png",
+    "repository": "https://github.com/madortill/rules"
+  },
+  {
+    "id": "courseAnimails",
+    "title": "לומדת חיות",
+    "developer": "מעיין אשר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-08-15",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת חיות לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/courseAnimails/",
+    "cover": "assets/course-covers/courseAnimails.png",
+    "repository": "https://github.com/madortill/courseAnimails"
+  },
+  {
+    "id": "davidShower",
+    "title": "לומדת דוד מתקלח",
+    "developer": "ניצן סלומון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-08-15",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת דוד מתקלח לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/davidShower/",
+    "cover": "assets/course-covers/davidShower.png",
+    "repository": "https://github.com/madortill/davidShower"
+  },
+  {
+    "id": "deliveryTechniques",
+    "title": "טכניקות מסירה",
+    "developer": "שירה כהן",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-02-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת טכניקות מסירה (עמידה מול קהל). פותחה עבור בית הספר לפיקוד הדרכה.",
+    "url": "https://madortill.github.io/deliveryTechniques/",
+    "cover": "assets/course-covers/deliveryTechniques.png",
+    "repository": "https://github.com/madortill/deliveryTechniques"
+  },
+  {
+    "id": "web_AgreedSigns_bhd20",
+    "title": "סימנים מוסכמים",
+    "developer": "דרור אברהמסון",
+    "baseId": "bhd20",
+    "baseName": "בה״ד 20",
+    "year": 2021,
+    "completionDate": "2021-08-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת סימנים מוסכמים. במהלך הלומדה אפשר לבחור בין סימני רק״ם או מנופים וללמוד על הסימנים השונים המתאימים לכל תחום. הלומדה כוללת סרטונים ותרגול.",
+    "url": "https://madortill.github.io/web_AgreedSigns_bhd20/",
+    "cover": "assets/course-covers/web_AgreedSigns_bhd20.png",
+    "repository": "https://github.com/madortill/web_AgreedSigns_bhd20"
+  },
+  {
+    "id": "odt",
+    "title": "לומדת ODT",
+    "developer": "ניצן סלומון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-05-11",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת הסבר על מתחם ה-ODT בקריית ההדרכה והמתקנים השונים בו והשימוש בהם.",
+    "url": "https://madortill.github.io/odt/odt.html",
+    "cover": "assets/course-covers/odt.png",
+    "repository": "https://github.com/madortill/odt"
+  },
+  {
+    "id": "teken15-generic",
+    "title": "לומדה גנרית תקן 15",
+    "developer": "ניצן סלומון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-05-03",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "טמפלייט ללומדות גנריות מסוג תקן 15. הטמפלייט כולל כרטיסיות לימוד בנושאים שונים ומבחן. קיימת גרסת מחשב וטלפון נפרדות וגם גרסה באנגלית (ב-git).",
+    "url": "https://madortill.github.io/teken15-generic/code/",
+    "cover": "assets/course-covers/teken15-generic.png",
+    "repository": "https://github.com/madortill/teken15-generic"
+  },
+  {
+    "id": "bahad11Cards",
+    "title": "מהות ושליטה בכ״א",
+    "developer": "הלה צביון",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2023,
+    "completionDate": "2023-04-03",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות שפותחה בעזרת מחולל הלומדות.",
+    "url": "https://madortill.github.io/bahad11Cards/code/",
+    "cover": "assets/course-covers/bahad11Cards.png",
+    "repository": "https://github.com/madortill/bahad11Cards"
+  },
+  {
+    "id": "Bahad10-cards",
+    "title": "לומדת תכנים מחייבים",
+    "developer": "שירה כהן",
+    "baseId": "bhd10",
+    "baseName": "בה״ד 10",
+    "year": 2023,
+    "completionDate": "2023-03-22",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת תכנים מחייבים בבה״ד 10. פותחה באמצעות מחולל הלומדות.",
+    "url": "https://madortill.github.io/Bahad10-cards/code/",
+    "cover": "assets/course-covers/Bahad10-cards.png",
+    "repository": "https://github.com/madortill/Bahad10-cards"
+  },
+  {
+    "id": "recipeBook",
+    "title": "מתכונט - מתכונים בשלוף",
+    "developer": "ניצן סלומון",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2023,
+    "completionDate": "2023-01-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "אתר מתכונים המיועד לקורס טבחים בבה״ד 6. האתר כולל מתכונים עם סרטוני הסבר, חומרי לימוד ותמונות.",
+    "url": "https://madortill.github.io/recipeBook/code/",
+    "cover": "assets/course-covers/recipeBook.png",
+    "repository": "https://github.com/madortill/recipeBook"
+  },
+  {
+    "id": "tillPhone",
+    "title": "טי״לפון",
+    "developer": "ניצן סלומון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-01-16",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "טמפלייט גנרי ללומדה הכוללת משחקים שונים המדמים אפליקציות.",
+    "url": "https://madortill.github.io/tillPhone/code/",
+    "cover": "assets/course-covers/tillPhone.png",
+    "repository": "https://github.com/madortill/tillPhone"
+  },
+  {
+    "id": "notes",
+    "title": "לומדת פתקים",
+    "developer": "מעיין אשר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-12-21",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת פתקים לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/notes/",
+    "cover": "assets/course-covers/notes.png",
+    "repository": "https://github.com/madortill/notes"
+  },
+  {
+    "id": "officerspreparation",
+    "title": "הכנה לקצונה",
+    "developer": "אורן אחרק, אביאל פיבן",
+    "baseId": "bhd20",
+    "baseName": "בה״ד 20",
+    "year": 2022,
+    "completionDate": "2022-12-08",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פקלון הכנה לקצונה הפותח עבור בה״ד 20.",
+    "url": "https://madortill.github.io/officerspreparation/www/#/home",
+    "cover": "assets/course-covers/officerspreparation.png",
+    "repository": "https://github.com/madortill/officerspreparation"
+  },
+  {
+    "id": "ionic-driveapp",
+    "title": "הוראות בטיחות בנהיגה",
+    "developer": "נוי אליאסי, שי נוביק",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2022,
+    "completionDate": "2022-12-13",
+    "platforms": [
+      "mobile"
+    ],
     "description": "",
-    "url": "https://madortill.github.io/MentoringPackage/",
-    "cover": "assets/course-covers/MentoringPackage.png",
-    "repository": "https://github.com/madortill/MentoringPackage"
+    "url": "https://madortill.github.io/ionic-driveapp/www/#/home",
+    "cover": "assets/course-covers/ionic-driveapp.png",
+    "repository": "https://github.com/madortill/ionic-driveapp"
+  },
+  {
+    "id": "knoteIt",
+    "title": "מחברת דיגיטלית",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-02-28",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "מחברת דיגיטלית לסיכום הרצאות הכנס KNOWit",
+    "url": "https://madortill.github.io/knoteIt/www/#/home",
+    "cover": "assets/course-covers/knoteIt.png",
+    "repository": "https://github.com/madortill/knoteIt"
+  },
+  {
+    "id": "teken15-bhd11",
+    "title": "קיט למפקד",
+    "developer": "ניצן סלומון",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2022,
+    "completionDate": "2022-10-02",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "קיט למפקד בבה״ד 11 הכולל את כל המידע שמפקד הנכנס לבה״ד צריך. פותח בעזרת תקן 15.",
+    "url": "https://madortill.github.io/teken15-bhd11/code/",
+    "cover": "assets/course-covers/teken15-bhd11.png",
+    "repository": "https://github.com/madortill/teken15-bhd11"
+  },
+  {
+    "id": "puzzle",
+    "title": "פאזל",
+    "developer": "טל סרוסי",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-08-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פאזל לחדר בריחה",
+    "url": "https://madortill.github.io/puzzle/main",
+    "cover": "assets/course-covers/puzzle.png",
+    "repository": "https://github.com/madortill/puzzle"
+  },
+  {
+    "id": "secret_room",
+    "title": "האתר הסודי",
+    "developer": "טל סרוסי",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-08-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "האתר הסודי לחדר בריחה",
+    "url": "https://madortill.github.io/secret_room/main",
+    "cover": "assets/course-covers/secret_room.png",
+    "repository": "https://github.com/madortill/secret_room"
+  },
+  {
+    "id": "tillder",
+    "title": "טי״לדר",
+    "developer": "ניצן סלומון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-07-27",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "משחק שאלות טי״לדר - טמפלייט",
+    "url": "https://madortill.github.io/tillder/",
+    "cover": "assets/course-covers/tillder.png",
+    "repository": "https://github.com/madortill/tillder"
+  },
+  {
+    "id": "get-info-to-text",
+    "title": "הכנת חדר בריחה",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-07-19",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "אתר בעזרתו ניתן להכניס באופן עצמאי מידע ללומדות חדר בריחה.",
+    "url": "https://madortill.github.io/get-info-to-text/main",
+    "cover": "assets/course-covers/get-info-to-text.png",
+    "repository": "https://github.com/madortill/get-info-to-text"
+  },
+  {
+    "id": "tablesTask",
+    "title": "לומדת משימות",
+    "developer": "מעיין אשר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-07-13",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת משימות לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/tablesTask/",
+    "cover": "assets/course-covers/tablesTask.png",
+    "repository": "https://github.com/madortill/tablesTask"
+  },
+  {
+    "id": "lomdat-mitztainim",
+    "title": "לומדת מצטיינים",
+    "developer": "מעיין אשר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-07-12",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת מצטיינים לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/lomdat-mitztainim/",
+    "cover": "assets/course-covers/lomdat-mitztainim.png",
+    "repository": "https://github.com/madortill/lomdat-mitztainim"
+  },
+  {
+    "id": "mapStorage",
+    "title": "לומדת מפות",
+    "developer": "מעיין אשר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-07-11",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת מפות לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/mapStorage/",
+    "cover": "assets/course-covers/mapStorage.png",
+    "repository": "https://github.com/madortill/mapStorage"
+  },
+  {
+    "id": "safetyWare",
+    "title": "לומדת ציוד מיגון",
+    "developer": "מעיין אשר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2022,
+    "completionDate": "2022-07-03",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת ציוד מיגון לחדר בריחה - טמפלייט",
+    "url": "https://madortill.github.io/safetyWare/",
+    "cover": "assets/course-covers/safetyWare.png",
+    "repository": "https://github.com/madortill/safetyWare"
+  },
+  {
+    "id": "web-electronics-bhd20",
+    "title": "אמצעים אופטיים",
+    "developer": "ניצן סלומון",
+    "baseId": "bhd20",
+    "baseName": "בה״ד 20",
+    "year": 2022,
+    "completionDate": "2025-07-05",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות על אמצעים אופטיים. פותח בעזרת תקן 15.",
+    "url": "https://madortill.github.io/web-electronics-bhd20/code/",
+    "cover": "assets/course-covers/web-electronics-bhd20.png",
+    "repository": "https://github.com/madortill/web-electronics-bhd20"
+  },
+  {
+    "id": "pharmacy-main",
+    "title": "מרפאה וחצי",
+    "developer": "טל סרוסי וניצן סלומון",
+    "baseId": "bhd10",
+    "baseName": "בה״ד 10",
+    "year": 2022,
+    "completionDate": "2022-04-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדה על חדרי המרפאה והנהלים הקשורים בתפעול ותחזוק המראה. הלומדה בסגנון המשחק ״חדר וחצי״ וכוללת שאלות ותרגולים.",
+    "url": "https://madortill.github.io/pharmacy-main/main",
+    "cover": "assets/course-covers/pharmacy-main.png",
+    "repository": "https://github.com/madortill/pharmacy-main"
+  },
+  {
+    "id": "snakes-ladders",
+    "title": "סולמות ונחשים",
+    "developer": "הלה צביון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-08-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פרוייקט סולמות ונחשים פיזי הכולל אתר שבו מטילים קובייה וירטואלית ומתקדמים עם השחקנים קדימה במסלול באמצעות מענה על שאלות.",
+    "url": "https://madortill.github.io/snakes-ladders/src/",
+    "cover": "assets/course-covers/snakes-ladders.png",
+    "repository": "https://github.com/madortill/snakes-ladders"
+  },
+  {
+    "id": "lomda-cards-theory",
+    "title": "לומדת תיאוריה",
+    "developer": "הלה צביון, תומי פוליאקובף דורין חתוקה",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2021,
+    "completionDate": "2021-12-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת תיאוריה הכוללת מידע תאורטי, תרגול ומבחן. פותחה בעזרת מחולל הלומדות",
+    "url": "https://madortill.github.io/lomda-cards-theory/src/",
+    "cover": "assets/course-covers/lomda-cards-theory.png",
+    "repository": "https://github.com/madortill/lomda-cards-theory"
+  },
+  {
+    "id": "targets",
+    "title": "כתיבת מערך שיעור",
+    "developer": "",
+    "baseId": "education",
+    "baseName": "בה״ד חינוך",
+    "year": 2021,
+    "completionDate": "2021-12-27",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדה בנושא כתיבת מבנה מערך שיעור. הלומדה פותחה עבור קורס הו״ד.",
+    "url": "https://madortill.github.io/targets/main",
+    "cover": "assets/course-covers/targets.png",
+    "repository": "https://github.com/madortill/targets"
+  },
+  {
+    "id": "lomda-safety-cards-bhd20",
+    "title": "לומדת בטיחות",
+    "developer": "הלה צביון",
+    "baseId": "bhd20",
+    "baseName": "בה״ד 20",
+    "year": 2021,
+    "completionDate": "2021-12-13",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת בטיחות כלל צה״לית של מערך הבטיחות בחיל הטנ״א ובה״ד 20. הלומדה פותחה באמצעות מחולל הלומדות",
+    "url": "https://madortill.github.io/lomda-safety-cards-bhd20/code/",
+    "cover": "assets/course-covers/lomda-safety-cards-bhd20.png",
+    "repository": "https://github.com/madortill/lomda-safety-cards-bhd20"
+  },
+  {
+    "id": "agaAvarianit-cards-bhd13",
+    "title": "עגה עבריינית",
+    "developer": "הלה צביון",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2021,
+    "completionDate": "2021-12-13",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות בנושא עגה עבריינית הכוללת תרגול ומבחן. פותח באמצעות מחולל הלומדות.",
+    "url": "https://madortill.github.io/agaAvarianit-cards-bhd13/code/",
+    "cover": "assets/course-covers/agaAvarianit-cards-bhd13.png",
+    "repository": "https://github.com/madortill/agaAvarianit-cards-bhd13"
+  },
+  {
+    "id": "bhd13-hamatz-cards",
+    "title": "לומדת חמ״ץ",
+    "developer": "הלה צביון",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2021,
+    "completionDate": "2021-12-13",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת חמ״ץ הכוללת מידע חיוני לכל משרת בחיל המשטרה הצבאית. פותח באמצעות מחולל הלומדות.",
+    "url": "https://madortill.github.io/bhd13-hamatz-cards/code/",
+    "cover": "assets/course-covers/bhd13-hamatz-cards.png",
+    "repository": "https://github.com/madortill/bhd13-hamatz-cards"
+  },
+  {
+    "id": "dental-assistants",
+    "title": "מושגון סייעות שיניים",
+    "developer": "מיה לבנה, ענבל עפגין",
+    "baseId": "bhd10",
+    "baseName": "בה״ד 10",
+    "year": 2021,
+    "completionDate": "2021-12-07",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פקלון מידע לסייעות רופא שיניים הכולל מידע תיאורטי, כרטיסיות, תרגול, מבחן ומשחק.",
+    "url": "https://madortill.github.io/dental-assistants/",
+    "cover": "assets/course-covers/dental-assistants.png",
+    "repository": "https://github.com/madortill/dental-assistants"
+  },
+  {
+    "id": "teken15",
+    "title": "לומדת תרופות",
+    "developer": "ניצן סלומון",
+    "baseId": "bhd10",
+    "baseName": "בה״ד 10",
+    "year": 2021,
+    "completionDate": "2025-11-22",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "מקבץ לומדות לקורס חובשים המספקות מידע על תרופות וכוללת גם מבחן.",
+    "url": "https://madortill.github.io/teken15/code/",
+    "cover": "assets/course-covers/teken15.png",
+    "repository": "https://github.com/madortill/teken15"
+  },
+  {
+    "id": "lomda-prisoner-rights-bhd13",
+    "title": "זכויות וחובות הכלוא",
+    "developer": "הלה צביון",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2021,
+    "completionDate": "2021-09-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות על זכויות וחובות הכלוא הכוללת תרגול. פותח באמצעות מחולל הלומדות",
+    "url": "https://madortill.github.io/lomda-prisoner-rights-bhd13/code/",
+    "cover": "assets/course-covers/lomda-prisoner-rights-bhd13.png",
+    "repository": "https://github.com/madortill/lomda-prisoner-rights-bhd13"
+  },
+  {
+    "id": "lomdaLravCheck",
+    "title": "מידע לחייל הדתי",
+    "developer": "הלה צביון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-08-04",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות עם מידע לחייל הדתי. פותח באמצעות מחולל הלומדות",
+    "url": "https://madortill.github.io/lomdaLravCheck/code/",
+    "cover": "assets/course-covers/lomdaLravCheck.png",
+    "repository": "https://github.com/madortill/lomdaLravCheck"
   },
   {
     "id": "",
