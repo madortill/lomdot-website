@@ -1415,52 +1415,164 @@
     "repository": "https://github.com/madortill/lomdaLravCheck"
   },
   {
-    "id": "",
-    "title": "",
-    "developer": "",
-    "baseId": "",
-    "baseName": "",
-    "year": 2025,
-    "completionDate": "2025-05-01",
+    "id": "safety-cards-bhd20",
+    "title": "לומדת בטיחות",
+    "developer": "הלה צביון",
+    "baseId": "bhd20",
+    "baseName": "בה״ד 20",
+    "year": 2021,
+    "completionDate": "2021-07-05",
     "platforms": [
-      "desktop"
+      "mobile"
     ],
-    "description": "",
-    "url": "https://madortill.github.io/MentoringPackage/",
-    "cover": "assets/course-covers/MentoringPackage.png",
-    "repository": "https://github.com/madortill/MentoringPackage"
+    "description": "לומדת בטיחות כלל בה״דית שפותחה עבור בה״ד 20. לומדת כרטיסיות שפותחה באמצעות מחולל הלומדות.",
+    "url": "https://madortill.github.io/safety-cards-bhd20/code/",
+    "cover": "assets/course-covers/safety-cards-bhd20.png",
+    "repository": "https://github.com/madortill/safety-cards-bhd20"
   },
   {
-    "id": "",
-    "title": "",
-    "developer": "",
-    "baseId": "",
-    "baseName": "",
-    "year": 2025,
-    "completionDate": "2025-05-01",
+    "id": "race-bhd13-detective_course",
+    "title": "לומדת המירוץ לבסיס",
+    "developer": "הלה צביון, גלי חיימוביץ'",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2020,
+    "completionDate": "2020-10-01",
     "platforms": [
       "desktop"
     ],
-    "description": "",
-    "url": "https://madortill.github.io/MentoringPackage/",
-    "cover": "assets/course-covers/MentoringPackage.png",
-    "repository": "https://github.com/madortill/MentoringPackage"
+    "description": "לומדת המירוץ לבסיס פותחה עבור סיכום קורס בילוש בבה״ד 13.",
+    "url": "https://madortill.github.io/race-bhd13-detective_course/main",
+    "cover": "assets/course-covers/race-bhd13-detective_course.png",
+    "repository": "https://github.com/madortill/race-bhd13-detective_course"
   },
   {
-    "id": "",
-    "title": "",
-    "developer": "",
+    "id": "lomdatMasterShef",
+    "title": "לומדת מאסטר שף",
+    "developer": "ניצן סלומון",
     "baseId": "",
-    "baseName": "",
-    "year": 2025,
-    "completionDate": "2025-05-01",
+    "baseName": "בה״ד 6",
+    "year": 2021,
+    "completionDate": "2021-05-31",
     "platforms": [
       "desktop"
     ],
-    "description": "",
-    "url": "https://madortill.github.io/MentoringPackage/",
-    "cover": "assets/course-covers/MentoringPackage.png",
-    "repository": "https://github.com/madortill/MentoringPackage"
+    "description": "לומדת מאסטר שף לקורס טבחים בבה״ד 6. הלומדה כוללת הסברים אינטרקטיבים להכנת המנות מקצה לקצה.",
+    "url": "https://madortill.github.io/lomdatMasterShef/",
+    "cover": "assets/course-covers/lomdatMasterShef.png",
+    "repository": "https://github.com/madortill/lomdatMasterShef"
+  },
+  {
+    "id": "MATCH",
+    "title": "התאמת מנהיגים",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-04-26",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "משחק התאמת מנהיגים לפי שיקוי - ניתן להשתמש כטמפלייט",
+    "url": "https://madortill.github.io/MATCH/main",
+    "cover": "assets/course-covers/MATCH.png",
+    "repository": "https://github.com/madortill/MATCH"
+  },
+  {
+    "id": "generic-quizlet",
+    "title": "טמפלייט לומדה",
+    "developer": "גל גנסין",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-04-25",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "טמפלייט ללומדה גנרית הכוללת העברת התוכן דרך כרטיסיות, תרגול, בוחן ומשחק.",
+    "url": "https://madortill.github.io/generic-quizlet/",
+    "cover": "assets/course-covers/generic-quizlet.png",
+    "repository": "https://github.com/madortill/generic-quizlet"
+  },
+  {
+    "id": "bhd10-medics",
+    "title": "אתר מידע לקורס חובשים",
+    "developer": "גל גנסין",
+    "baseId": "bhd10",
+    "baseName": "בה״ד 10",
+    "year": 2020,
+    "completionDate": "2020-09-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "אתר מידע הכולל מספר לומדות וסרטונים בנושאים שונים. האתר כולל כ-10 לומדות.",
+    "url": "https://mador-till-prod.github.io/BHD-10-Medics/big-site/",
+    "cover": "assets/course-covers/bhd10-medics.png",
+    "repository": "https://github.com/madortill/bhd10-medics"
+  },
+  {
+    "id": "generic_web_practice",
+    "title": "לומדת מניעה",
+    "developer": "פלג ברנדוין, מיה ליבנה",
+    "baseId": "",
+    "baseName": "בה״ד 11",
+    "year": 2021,
+    "completionDate": "2021-03-14",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת מניעה לקורס כבאים",
+    "url": "https://madortill.github.io/generic_web_practice/",
+    "cover": "assets/course-covers/generic_web_practice.png",
+    "repository": "https://github.com/madortill/generic_web_practice"
+  },
+  {
+    "id": "project-site",
+    "title": "תוצרי מדור טי״ל",
+    "developer": "גל גנסין",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-01-14",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "אתר תוצרים למדור טי״ל.",
+    "url": "https://madortill.github.io/project-site/",
+    "cover": "assets/course-covers/project-site.png",
+    "repository": "https://github.com/madortill/project-site"
+  },
+  {
+    "id": "tozarim-mutamim",
+    "title": "מושגים בעולם הצפ״ה",
+    "developer": "תומי בוליאקוב, גל גנסין",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2020,
+    "completionDate": "2020-12-24",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פקלון מושגים בעולם הצפ״ה הכולל כרטיסיות , תרגול, בוחן ומשחק התאמת מושגים",
+    "url": "https://madortill.github.io/tozarim-mutamim/Moshagim-in-zapa/",
+    "cover": "assets/course-covers/tozarim-mutamim.png",
+    "repository": "https://github.com/madortill/tozarim-mutamim"
+  },
+  {
+    "id": "HanukaChallenge",
+    "title": "אתגר חנוכה",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2020,
+    "completionDate": "2020-12-08",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "משחק לחג החנוכה",
+    "url": "https://madortill.github.io/HanukaChallenge/",
+    "cover": "assets/course-covers/HanukaChallenge.png",
+    "repository": "https://github.com/madortill/HanukaChallenge"
   },
   {
     "id": "",
