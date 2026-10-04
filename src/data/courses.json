@@ -1575,6 +1575,135 @@
     "repository": "https://github.com/madortill/HanukaChallenge"
   },
   {
+    "id": "digital-fan",
+    "title": "שיטות למידה",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2020,
+    "completionDate": "2020-09-14",
+    "platforms": [
+      "desktop",
+      "mobile"
+    ],
+    "description": "מניפה דיגיטלית המאגדת 5 שיטות למידה שונות. הכוללת הסברים וחלוקה של השיעור לפי המערך.",
+    "url": "https://madortill.github.io/digital-fan/",
+    "cover": "assets/course-covers/digital-fan.png",
+    "repository": "https://github.com/madortill/digital-fan"
+  },
+  {
+    "id": "who-wants-to-be-talab",
+    "title": "מי רוצה להיות מיליונר בנושא התל״ב",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2020,
+    "completionDate": "2020-09-13",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "משחק בסגנון ״מי רוצה להיות מיליונר״ בנושא התל״ב.",
+    "url": "https://madortill.github.io/who-wants-to-be-talab/",
+    "cover": "assets/course-covers/who-wants-to-be-talab.png",
+    "repository": "https://github.com/madortill/who-wants-to-be-talab"
+  },
+  {
+    "id": "the-race-tsapa",
+    "title": "המירוץ לבסיס לצפ״ה",
+    "developer": "הלב צביון, גלי חיימוביץ'",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2020,
+    "completionDate": "2020-08-24",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "משחק המירוץ לבסיס שפותח עבור קורס צפ״ה וכולל תרגולים.",
+    "url": "https://madortill.github.io/the-race-tsapa/main.html",
+    "cover": "assets/course-covers/the-race-tsapa.png",
+    "repository": "https://github.com/madortill/the-race-tsapa"
+  },
+  {
+    "id": "BHD6DrivingCalculator",
+    "title": "מחשבון נהג חדש",
+    "developer": "צליל עמר",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2020,
+    "completionDate": "2020-08-021",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "משחבון נהג חדש המחשב ומסדר את התהליך הנדרש להוצאת רישיון נהיגה לפי הרישיון הקיים לנהג והרכב עליו הוא נוהג.",
+    "url": "https://madortill.github.io/BHD6DrivingCalculator/",
+    "cover": "assets/course-covers/BHD6DrivingCalculator.png",
+    "repository": "https://github.com/madortill/BHD6DrivingCalculator"
+  },
+  {
+    "id": "The-Race",
+    "title": "המירוץ לבסיס",
+    "developer": "הלב צביון, גלי חיימוביץ'",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2020,
+    "completionDate": "2020-07-29",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדה גנרית - המירוץ לבסיס. כולל מספר משחקי תרגול.",
+    "url": "https://madortill.github.io/The-Race/main",
+    "cover": "assets/course-covers/The-Race.png",
+    "repository": "https://github.com/madortill/The-Race"
+  },
+  {
+    "id": "millionaire-game",
+    "title": "משחק מי רוצה להיות מיליונר",
+    "developer": "גל גנסין",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2025,
+    "completionDate": "2025-05-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "טמפלייט למשחק תרגול מי רוצה להיות מיליונר.",
+    "url": "https://mador-till-prod.github.io/millionaire-game/",
+    "cover": "assets/course-covers/millionaire-game.png",
+    "repository": "https://github.com/madortill/millionaire-game"
+  },
+  {
+    "id": "studydayquiz",
+    "title": "משחק ליום למידה",
+    "developer": "",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2019,
+    "completionDate": "2019-09-10",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "משחק שאלות אמריקאיות ליום למידה",
+    "url": "https://madortill.github.io/studydayquiz/",
+    "cover": "assets/course-covers/studydayquiz.png",
+    "repository": "https://github.com/madortill/studydayquiz"
+  },
+  {
+    "id": "",
+    "title": "",
+    "developer": "",
+    "baseId": "",
+    "baseName": "",
+    "year": 2025,
+    "completionDate": "2025-05-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "",
+    "url": "https://madortill.github.io/MentoringPackage/",
+    "cover": "assets/course-covers/MentoringPackage.png",
+    "repository": "https://github.com/madortill/MentoringPackage"
+  },
+  {
     "id": "",
     "title": "",
     "developer": "",
