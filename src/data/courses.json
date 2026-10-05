@@ -193,6 +193,22 @@
     "repository": "https://github.com/madortill/mida-lhaial-hadati"
   },
   {
+    "id": "midaLhaialHadati",
+    "title": "מידע לחייל הדתי",
+    "developer": "הלה צביון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-08-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פקלון מידע לחייל הדתי במפקדת קריית ההדרכה. המכיל את המידע והזכויות של כל חייל דתי ומופץ לחיילים הרלוונטים. מתעדכן על פי צורך. פותח בעזרת מחולל הלומדות.",
+    "url": "https://mador-till-prod.github.io/midaLhaialHadati/code/",
+    "cover": "assets/course-covers/midaLhaialHadati.png",
+    "repository": "https://github.com/mador-till-prod/midaLhaialHadati"
+  },
+  {
     "id": "lomdat-gviat-amra",
     "title": "לומדת גביית אמרה",
     "developer": "מאיה מרום",
@@ -953,7 +969,7 @@
   {
     "id": "bahad11Cards",
     "title": "מהות ושליטה בכ״א",
-    "developer": "הלה צביון",
+    "developer": "תמר סטופ",
     "baseId": "bhd11",
     "baseName": "בה״ד 11",
     "year": 2023,
@@ -1288,7 +1304,7 @@
   },
   {
     "id": "targets",
-    "title": "כתיבת מערך שיעור",
+    "title": "ניסוח מטרות ומבנה מערך שיעור",
     "developer": "",
     "baseId": "education",
     "baseName": "בה״ד חינוך",
@@ -1297,7 +1313,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדה בנושא כתיבת מבנה מערך שיעור. הלומדה פותחה עבור קורס הו״ד.",
+    "description": "לומדה בנושא ניסוח מטרות ומבנה מערך שיעור. הלומדה פותחה עבור קורס הו״ד.",
     "url": "https://madortill.github.io/targets/main",
     "cover": "assets/course-covers/targets.png",
     "repository": "https://github.com/madortill/targets"
@@ -1439,12 +1455,30 @@
     "year": 2020,
     "completionDate": "2020-10-01",
     "platforms": [
-      "desktop"
+      "desktop",
+      "mobile"
     ],
     "description": "לומדת המירוץ לבסיס פותחה עבור סיכום קורס בילוש בבה״ד 13.",
     "url": "https://madortill.github.io/race-bhd13-detective_course/main",
     "cover": "assets/course-covers/race-bhd13-detective_course.png",
     "repository": "https://github.com/madortill/race-bhd13-detective_course"
+  },
+  {
+    "id": "race-bhd13-detective-course",
+    "title": "לומדת המירוץ לבסיס",
+    "developer": "הלה צביון, גלי חיימוביץ'",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2020,
+    "completionDate": "2020-10-01",
+    "platforms": [
+      "desktop",
+      "mobile"
+    ],
+    "description": "לומדת המירוץ לבסיס פותחה עבור סיכום קורס בילוש בבה״ד 13.",
+    "url": "https://mador-till-prod.github.io/race-bhd13-detective-course/main",
+    "cover": "assets/course-covers/race-bhd13-detective-course.png",
+    "repository": "https://github.com/madortill/race-bhd13-detective-course"
   },
   {
     "id": "lomdatMasterShef",
@@ -1688,35 +1722,230 @@
     "repository": "https://github.com/madortill/studydayquiz"
   },
   {
-    "id": "",
-    "title": "",
-    "developer": "",
-    "baseId": "",
-    "baseName": "",
+    "id": "safety-cards-mifkada",
+    "title": "כללי בטיחות קרית ההדרכה",
+    "developer": "הלה צביון, דורון הרפז",
+    "baseId": "hq",
+    "baseName": "מפקדה",
     "year": 2025,
-    "completionDate": "2025-05-01",
+    "completionDate": "2025-03-03",
     "platforms": [
-      "desktop"
+      "mobile"
     ],
-    "description": "",
-    "url": "https://madortill.github.io/MentoringPackage/",
-    "cover": "assets/course-covers/MentoringPackage.png",
-    "repository": "https://github.com/madortill/MentoringPackage"
+    "description": "לומדת כללי בטיחות לחיילים חדשים בקריית ההדרכה הכוללת כרטיסיות מידע, תרגול ומבחן מסכם. פותח באמצעות מחולל הלומדות.",
+    "url": "https://mador-till-prod.github.io/safety-cards-mifkada/code/",
+    "cover": "assets/course-covers/safety-cards-mifkada.png",
+    "repository": "https://github.com/mador-till-prod/safety-cards-mifkada"
   },
   {
-    "id": "",
-    "title": "",
+    "id": "deliveryTechniques-prod",
+    "title": "טכניקות מסירה",
+    "developer": "שירה כהן",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2023,
+    "completionDate": "2023-02-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת טכניקות מסירה (עמידה מול קהל). פותחה עבור בית הספר לפיקוד הדרכה. גרסה לטלפון",
+    "url": "https://mador-till-prod.github.io/deliveryTechniques/",
+    "cover": "assets/course-covers/deliveryTechniques-prod.png",
+    "repository": "https://github.com/mador-till-prod/deliveryTechniques"
+  },
+  {
+    "id": "tash-cards",
+    "title": "ת״ש בכף היד",
+    "developer": "הלה צביון",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2023,
+    "completionDate": "2023-06-05",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "פק״ל מידע לקורס ת״ש הכולל כרטיסיות מידע על החומר הנלמד, תרגול ומבחן מסכם. פותח באמצעות מחולל הלומדות.",
+    "url": "https://mador-till-prod.github.io/tash-cards/code/",
+    "cover": "assets/course-covers/tash-cards.png",
+    "repository": "https://github.com/mador-till-prod/tash-cards"
+  },
+  {
+    "id": "safty_bhd6",
+    "title": "לומדת בטיחות",
+    "developer": "הלה צביון",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2021,
+    "completionDate": "2021-10-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת הוראות בטיחות הכוללת כרטיסיות בכל נושאי הבטיחות. הלומדה כוללת תרגול. פותח באמצעות מחולל הלומדות.",
+    "url": "https://mador-till-prod.github.io/safty_bhd6/code/",
+    "cover": "assets/course-covers/safty_bhd6.png",
+    "repository": "https://github.com/mador-till-prod/safty_bhd6"
+  },
+  {
+    "id": "web-bhd20-gemeric-quizlet-drones",
+    "title": "לומדת רחפנים",
+    "developer": "גל גנסין",
+    "baseId": "bhd20",
+    "baseName": "בה״ד 20",
+    "year": 2022,
+    "completionDate": "2022-06-01",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת רחפנים הכוללת כרטיסיות מידע, תרגול, בוחן ומשחק.",
+    "url": "https://mador-till-prod.github.io/web-bhd20-gemeric-quizlet-drones/web-bhd20-generic-quizlet-drones/",
+    "cover": "assets/course-covers/web-bhd20-gemeric-quizlet-drones.png",
+    "repository": "https://github.com/mador-till-prod/web-bhd20-gemeric-quizlet-drones"
+  },
+  {
+    "id": "millioner_site",
+    "title": "מי רוצה להיות מיליונר?",
+    "developer": "",
+    "baseId": "bhd10",
+    "baseName": "בה״ד 10",
+    "year": 2022,
+    "completionDate": "2022-07-12",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "אתר המרכז את כל פרויקטי ״מי רוצה להיות מיליונר?״ שפותחו עבור בה״ד 10.",
+    "url": "https://mador-till-prod.github.io/millioner_site/",
+    "cover": "assets/course-covers/millioner_site.png",
+    "repository": "https://github.com/mador-till-prod/millioner_site"
+  },
+  {
+    "id": "hosen_lamefaked_bhd11",
+    "title": "לומדת חוסן למפקד מחלקה",
+    "developer": "הלה צביון, ניצן סלומון",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2022,
+    "completionDate": "2022-02-27",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות בנושא חוסן למפקד הכוללת מידע על הריאות הנפש וחוסן. הלומדה פותחה באמצעות מחולל הלומדות.",
+    "url": "https://mador-till-prod.github.io/hosen_lamefaked_bhd11/code/",
+    "cover": "assets/course-covers/hosen_lamefaked_bhd11.png",
+    "repository": "https://github.com/mador-till-prod/hosen_lamefaked_bhd11"
+  },
+  {
+    "id": "lomdat_zchout_hachayal_bhd_11",
+    "title": "לומדת זכויות החייל",
+    "developer": "הלה צביון, ניצן סלומון",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2022,
+    "completionDate": "2022-02-15",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות המאגדת את זכויות חייל החובה והקבע. פותחה באמצעות מחולל הלומדות.",
+    "url": "https://mador-till-prod.github.io/lomdat_zchout_hachayal_bhd_11/code/",
+    "cover": "assets/course-covers/lomdat_zchout_hachayal_bhd_11.png",
+    "repository": "https://github.com/mador-till-prod/lomdat_zchout_hachayal_bhd_11"
+  },
+  {
+    "id": "bhd13-hanatz",
+    "title": "מבנה חמ״ץ",
+    "developer": "הלה צביון",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2021,
+    "completionDate": "2021-10-17",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת כרטיסיות בנושא מבנה חיל המשטרה הצבאית. הלומדה מאגדת מידע בנושא המערכים השונים של חיל המשטרה הצבאית וכוללת תרגול.",
+    "url": "https://mador-till-prod.github.io/bhd13-hanatz/code/",
+    "cover": "assets/course-covers/bhd13-hanatz.png",
+    "repository": "https://github.com/mador-till-prod/bhd13-hanatz"
+  },
+  {
+    "id": "magal-sec-version",
+    "title": "חדר בריחה",
     "developer": "",
     "baseId": "",
     "baseName": "",
+    "year": 2021,
+    "completionDate": "2021-07-12",
+    "platforms": [
+      "mobile",
+      "desktop"
+    ],
+    "description": "חדר בריחה למערך מגל",
+    "url": "https://mador-till-prod.github.io/magal-sec-version/magal",
+    "cover": "assets/course-covers/magal-sec-version.png",
+    "repository": "https://github.com/mador-till-prod/magal-sec-version"
+  },
+  {
+    "id": "magal-escape-box",
+    "title": "משחק קופסאות הבריחה",
+    "developer": "",
+    "baseId": "",
+    "baseName": "",
+    "year": 2021,
+    "completionDate": "2021-07-11",
+    "platforms": [
+      "desktop",
+      "mobile"
+    ],
+    "description": "אתרים למשימות של קופסאות הבריחה למערך מגל.",
+    "url": "https://mador-till-prod.github.io/magal-escape-box/code/",
+    "cover": "assets/course-covers/magal-escape-box.png",
+    "repository": "https://github.com/mador-till-prod/magal-escape-box"
+  },
+  {
+    "id": "fifth-mission-magal",
+    "title": "משחק חדר בריחה",
+    "developer": "",
+    "baseId": "",
+    "baseName": "",
+    "year": 2021,
+    "completionDate": "2021-07-11",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת טופסולוגיה לכנס מגל משימה חמישית קופסאות בריחה",
+    "url": "https://mador-till-prod.github.io/fifth-mission-magal/skarim-mitkadmim-exer",
+    "cover": "assets/course-covers/fifth-mission-magal.png",
+    "repository": "https://github.com/mador-till-prod/fifth-mission-magal"
+  },
+  {
+    "id": "matching",
+    "title": "משחק התאמת מנהיגים",
+    "developer": "טל סרוסי",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2021,
+    "completionDate": "2021-05-24",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "משחק התאמת מנהיגים להסבר המתאים עליהם.",
+    "url": "https://mador-till-prod.github.io/matching/main",
+    "cover": "assets/course-covers/matching.png",
+    "repository": "https://github.com/mador-till-prod/matching"
+  },
+  {
+    "id": "ctc-site",
+    "title": "אתר קריית ההדרכה",
+    "developer": "הלה צביון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
     "year": 2025,
     "completionDate": "2025-05-01",
     "platforms": [
+      "mobile",
       "desktop"
     ],
-    "description": "",
-    "url": "https://madortill.github.io/MentoringPackage/",
-    "cover": "assets/course-covers/MentoringPackage.png",
-    "repository": "https://github.com/madortill/MentoringPackage"
+    "description": "אתר מידע לקריית ההדרכה הכולל מידע בנושאים שונים הקשורים לבסיס.",
+    "url": "https://mador-till-prod.github.io/ctc-site/",
+    "cover": "assets/course-covers/ctc-site.png",
+    "repository": "https://github.com/mador-till-prod/ctc-site"
   }
 ]
