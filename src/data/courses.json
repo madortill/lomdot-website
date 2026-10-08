@@ -16,6 +16,86 @@
     "repository": "https://github.com/madortill/batash-package"
   },
   {
+    "id": "batash-sufa",
+    "title": "לומדת ג'יפ סופה",
+    "developer": "ירין חנה טובול",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2026,
+    "completionDate": "2026-02-20",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת ג'יפ סופה, פותחה כחלק ממארז הבט״ש. הלומדה משמשת כחומר התיאורטי בקורס נהיגת הבט״ש בבה״ד.",
+    "url": "https://madortill.github.io/batash-sufa/",
+    "cover": "assets/course-covers/batash-sufa.png",
+    "repository": "https://github.com/madortill/batash-sufa"
+  },
+  {
+    "id": "batash-david",
+    "title": "לומדת ג'יפ דוד",
+    "developer": "גילי נחום",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2026,
+    "completionDate": "2026-02-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת ג'יפ דוד, פותחה כחלק ממארז הבט״ש. הלומדה משמשת כחומר התיאורטי בקורס נהיגת הבט״ש בבה״ד.",
+    "url": "https://madortill.github.io/batash-david/",
+    "cover": "assets/course-covers/batash-david.png",
+    "repository": "https://github.com/madortill/batash-david"
+  },
+  {
+    "id": "lomdat-batash-savana",
+    "title": "לומדת סוואנה",
+    "developer": "צאלה בלמקר",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2026,
+    "completionDate": "2026-06-10",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת סוואנה, פותחה כחלק ממארז הבט״ש. הלומדה משמשת כחומר התיאורטי בקורס נהיגת הבט״ש בבה״ד.",
+    "url": "https://madortill.github.io/lomdat-batash-savana/",
+    "cover": "assets/course-covers/lomdat-batash-savana.png",
+    "repository": "https://github.com/madortill/lomdat-batash-savana"
+  },
+  {
+    "id": "batash_tigris",
+    "title": "לומדת ג'יפ טיגריס",
+    "developer": "רעות מנה",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2026,
+    "completionDate": "2026-06-10",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת ג'יפ טיגריס, פותחה כחלק ממארז הבט״ש. הלומדה משמשת כחומר התיאורטי בקורס נהיגת הבט״ש בבה״ד.",
+    "url": "https://madortill.github.io/batash_tigris/",
+    "cover": "assets/course-covers/batash_tigris.png",
+    "repository": "https://github.com/madortill/batash_tigris"
+  },
+  {
+    "id": "batash-safety",
+    "title": "לומדת הוראות בטיחות",
+    "developer": "גילי נחום",
+    "baseId": "bhd6",
+    "baseName": "בה״ד 6",
+    "year": 2026,
+    "completionDate": "2026-02-10",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת הוראות בטיחות לנהיגת בט״ש, פותחה כחלק ממארז הבט״ש. הלומדה עוברת על הוראות הבטיחות הרלוונטיות לנהיגה בכל רכבי הבט״ש.",
+    "url": "https://madortill.github.io/batash-safety/",
+    "cover": "assets/course-covers/batash-safety.png",
+    "repository": "https://github.com/madortill/batash-safety"
+  },
+  {
     "id": "agoran",
     "title": "לומדת עגורנים",
     "developer": "דני שריקי",
@@ -33,7 +113,39 @@
     "repository": "https://github.com/madortill/LomdatCranes"
   },
   {
-    "id": "write-report",
+    "id": "lomdat-evaluating",
+    "title": "לומדת מעריכים",
+    "developer": "צאלה בלמקר",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2026,
+    "completionDate": "2026-09-25",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת מעריכים מתעסקת בימי מיון ומסבירה על חשיבותם, מהלכם והעקרונות המנחים להעברתם בצה״ל. הלומדה כוללת סרטוני הדרכה ותרגול. פותחה עבור מדור פא״ר.",
+    "url": "https://madortill.github.io/lomdat-evaluating/",
+    "cover": "assets/course-covers/lomdat-evaluating.png",
+    "repository": "https://github.com/madortill/lomdat-evaluating"
+  },
+  {
+    "id": "mrg-mashan",
+    "title": "ממשקי עבודה מרכז גיוס",
+    "developer": "רעות מנה",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2026,
+    "completionDate": "2026-09-20",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת ממשקי עבודה נמרכז גיוס פותחה עבור השלמת קצונת משא״ן. במהלך הלומדה הצוער לומד את הממשקים העיקריים ודרכי העבודה מול מרכז הגיוס.",
+    "url": "https://madortill.github.io/mrg-mashan/",
+    "cover": "assets/course-covers/mrg-mashan.png",
+    "repository": "https://github.com/madortill/mrg-mashan"
+  },
+  {
+    "id": "lomdat-traffic-reports",
     "title": "כתיבת דוחות",
     "developer": "קשת פרי",
     "baseId": "bhd13",
@@ -43,10 +155,26 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדה לקורס שוטרים צבאיים, מלמדת את החיילים איך לכתוב דוח מ״צ כראוי. הלומדה מועברת כחלק ממארז לומדות.",
+    "description": "לומדת כתיבת דוחות לקורס שוטרים צבאיים, מלמדת את החיילים איך לכתוב דוח מ״צ כראוי. הלומדה מועברת כחלק ממארז לומדות.",
     "url": "https://madortill.github.io/lomdat-traffic-reports/",
-    "cover": "assets/course-covers/writeReport.png",
+    "cover": "assets/course-covers/lomdat-traffic-reports.png",
     "repository": "https://github.com/madortill/lomdat-traffic-reports"
+  },
+  {
+    "id": "lomdat-handling-objections",
+    "title": "התמודדות עם התנהגויות",
+    "developer": "קשת פרי",
+    "baseId": "education",
+    "baseName": "בה״ד חינוך",
+    "year": 2026,
+    "completionDate": "2026-09-30",
+    "platforms": [
+      "mobile"
+    ],
+    "description": "לומדת התמודדות עם התנהגויות שפותחה עבור קורס הו״ד, מלמדת את החיילים להעביר שיעור תוך התמודדות עם אתגרי החניכים.",
+    "url": "https://madortill.github.io/lomdat-handling-objections/",
+    "cover": "assets/course-covers/lomdat-handling-objections.png",
+    "repository": "https://github.com/madortill/lomdat-handling-objections"
   },
   {
     "id": "lone-soldier",
@@ -75,7 +203,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת שרשרת האספקה, בה\"ד 6, קשת פרי",
+    "description": "לומדת שרשרת האספקה לקורס מש״קי לוגיסטיקה. הלומדה מלמדת את החיילים על שרשרת האספקה הצה״לית והשלבים שבה וחשיבותם.",
     "url": "https://madortill.github.io/lomdat-supply-chain/",
     "cover": "assets/course-covers/supply-chain.png",
     "repository": "https://github.com/madortill/lomdat-supply-chain"
@@ -107,7 +235,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "הלומדה מלמדת את קצינות המשא״ן על חשיבותו של דו״ח 1 ואיך לנהל אותו כראוי. הלומדה עוברת בהשלמת קצונת משא״ן.",
+    "description": "לומדת דו״ח 1 מלמדת את קצינות המשא״ן על חשיבותו של דו״ח 1 ואיך לנהל אותו כראוי. הלומדה עוברת בהשלמת קצונת משא״ן.",
     "url": "https://madortill.github.io/onePratLomda/",
     "cover": "assets/course-covers/onePratLomda.png",
      "repository": "https://github.com/madortill/onePratLomda"
@@ -123,7 +251,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת השלמת טירונות חיל חינוך- גרסה אחרי שינויים, בה\"ד חינוך, מאיה מרום",
+    "description": "לומדה אשר מטרתה ליצור יישור קו בין חיילים שעשו טיאונות בבה״ד לבין אלו שעשו טירונות כללית. מועברת לפני תחילת הקורס אליו החייל שובץ.",
     "url": "https://madortill.github.io/complete-tironot-education/",
     "cover": "assets/course-covers/tironot-education.png",
     "repository": "https://github.com/madortill/complete-tironot-education"
@@ -139,13 +267,13 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת היתר חו\"ל, בה\"ד 11, מאיה מרום",
+    "description": "לומדה המועברת בהשלמת משא״ן סדיר, מטרתה ללמד את הצוערים על מאחורי הקלעים של השגת היתר חו״ל וכיצד לחלעזור לחיילים שלהם בעתיד עם האישורים הנדרשים.",
     "url": "https://madortill.github.io/lomdat-heter-hul/",
     "cover": "assets/course-covers/heter-hul.png",
     "repository": "https://github.com/madortill/lomdat-heter-hul"
   },
   {
-    "id": "traffic-package",
+    "id": "traffic-learning-package",
     "title": "מארז לומדות תעבורה",
     "developer": "קשת פרי",
     "baseId": "bhd13",
@@ -155,10 +283,26 @@
     "platforms": [
       "desktop"
     ],
-    "description": "",
+    "description": "מארז לומדות תעבורה שפותח עבור קורס שיטור בבה״ד 13 וכולל 2 לומדות בנושאי תעבורה וכתיבת דו״חות.",
     "url": "https://madortill.github.io/traffic-learning-package/",
     "cover": "assets/course-covers/traffic-package.png",
     "repository": "https://github.com/madortill/traffic-learning-package"
+  },
+  {
+    "id": "lomdat-principles",
+    "title": "מארז לומדות תעבורה",
+    "developer": "קשת פרי",
+    "baseId": "bhd13",
+    "baseName": "בה״ד 13",
+    "year": 2026,
+    "completionDate": "2026-05-15",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת תעבורה לקורס שיטור בבה״ד 13. הלומדה כוללת הסברים ותרגול בנושא זיהוי רכבים, סוגי נסיעות, אופן עצירת רכבים והכוונת תנועה. הלומדה היא חלק ממארז התעבורה הכולל שתי לומדות.",
+    "url": "https://madortill.github.io/lomdat-principles/",
+    "cover": "assets/course-covers/lomdat-principles.png",
+    "repository": "https://github.com/madortill/lomdat-principles"
   },
   {
     "id": "web-basseRules-mifkada",
@@ -203,7 +347,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "פקלון מידע לחייל הדתי במפקדת קריית ההדרכה. המכיל את המידע והזכויות של כל חייל דתי ומופץ לחיילים הרלוונטים. מתעדכן על פי צורך. פותח בעזרת מחולל הלומדות.",
+    "description": "פקלון מידע לחייל הדתי במפקדת קריית ההדרכה. מכיל את המידע והזכויות של כל חייל דתי ומופץ לחיילים הרלוונטים. מתעדכן על פי צורך. פותח בעזרת מחולל הלומדות.",
     "url": "https://mador-till-prod.github.io/midaLhaialHadati/code/",
     "cover": "assets/course-covers/midaLhaialHadati.png",
     "repository": "https://github.com/mador-till-prod/midaLhaialHadati"
@@ -220,7 +364,7 @@
       "desktop",
       "mobile"
     ],
-    "description": "",
+    "description": "מועברתת בקורס חוקרים במשטרה צבאית, מטרתה לתרגל מילוי נכון של מסמך גביית אמרה.",
     "url": "https://madortill.github.io/lomdat-gviat-amra/",
     "cover": "assets/course-covers/lomdat-gviat-amra.png",
     "repository": "https://github.com/madortill/lomdat-gviat-amra"
@@ -242,6 +386,86 @@
     "repository": "https://github.com/madortill/MentoringPackage"
   },
   {
+    "id": "preparationAndBriefing",
+    "title": "הכנה עצמית ותדריך",
+    "developer": "דני שריקי",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-07-15",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת הכנה עצמית ותדריך, פותחה כחלק ממארז החניכה לקורס צפ״ה בבית הספר לפיקוד.",
+    "url": "https://madortill.github.io/preparationAndBriefing/",
+    "cover": "assets/course-covers/preparationAndBriefing.png",
+    "repository": "https://github.com/madortill/preparationAndBriefing"
+  },
+  {
+    "id": "lomdatIbud",
+    "title": "לומדת עיבוד",
+    "developer": "דורון הרפז",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-07-14",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת עיבוד, פותחה כחלק ממארז החניכה לקורס צפ״ה בבית הספר לפיקוד.",
+    "url": "https://madortill.github.io/lomdatIbud/",
+    "cover": "assets/course-covers/lomdatIbud.png",
+    "repository": "https://github.com/madortill/lomdatIbud"
+  },
+  {
+    "id": "observation",
+    "title": "לומדת תצפית",
+    "developer": "אדוה אבא, שירה כהן, גילי גורדון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-08-14",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת תצפית, פותחה כחלק ממארז החניכה לקורס צפ״ה בבית הספר לפיקוד.",
+    "url": "https://madortill.github.io/observation/",
+    "cover": "assets/course-covers/observation.png",
+    "repository": "https://github.com/madortill/observation"
+  },
+  {
+    "id": "lomdatMashov",
+    "title": "לומדת משוב",
+    "developer": "אדוה אבא, תמר סטופ",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-03-25",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת משוב, פותחה כחלק ממארז החניכה לקורס צפ״ה בבית הספר לפיקוד.",
+    "url": "https://madortill.github.io/lomdatMashov/",
+    "cover": "assets/course-covers/lomdatMashov.png",
+    "repository": "https://github.com/madortill/lomdatMashov"
+  },
+  {
+    "id": "yesodot-hanicha",
+    "title": "יסודות תהליך החניכה",
+    "developer": "גילי גורדון",
+    "baseId": "hq",
+    "baseName": "מפקדה",
+    "year": 2024,
+    "completionDate": "2024-08-15",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדת יסודות תהליך החניכה, פותחה כחלק ממארז החניכה לקורס צפ״ה בבית הספר לפיקוד.",
+    "url": "https://madortill.github.io/yesodot-hanicha/",
+    "cover": "assets/course-covers/yesodot-hanicha.png",
+    "repository": "https://github.com/madortill/yesodot-hanicha"
+  },
+  {
     "id": "lomdat-safety-instructions",
     "title": "הוראות בטיחות בנהיגה",
     "developer": "מאיה מרום",
@@ -252,7 +476,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "",
+    "description": "מועברת בקורס נהיגה בבה״ד 6. הלומדה מאפשרת תרגול ולמידה של הוראו הבטיחות בנהיגה בשיעור וכתזכורת מהבית.",
     "url": "https://madortill.github.io/lomdat-safety-instructions/",
     "cover": "assets/course-covers/lomdat-safety-instructions.png",
     "repository": "https://github.com/madortill/lomdat-safety-instructions"
@@ -269,7 +493,7 @@
       "desktop",
       "mobile"
     ],
-    "description": "",
+    "description": "מועברת בקורס חוקרים במשטרה צבאית, מטרתה לתרגל מילוי נכון של מסמך הצהרה על מתן דגימת שתן.",
     "url": "https://madortill.github.io/lomdatUrineSample/",
     "cover": "assets/course-covers/lomdatUrineSample.png",
     "repository": "https://github.com/madortill/lomdatUrineSample"
@@ -286,10 +510,26 @@
       "desktop",
       "mobile"
     ],
-    "description": "",
+    "description": "מועברת בקורס שוטרים במשטרה צבאית, מטרתה ללמוד על נוהל חקירת חשוד בדגש על מילוי טפסי מעצר. הלומדה כוללת תרגול באמצעות סיפור מקרה ומילוי המסמים הרלוונטים.",
     "url": "https://madortill.github.io/arrestDocuments/",
     "cover": "assets/course-covers/arrestDocuments.png",
     "repository": "https://github.com/madortill/arrestDocuments"
+  },
+  {
+    "id": "lomdat-madaday-mashan",
+    "title": "לומדת מדדי משא״ן",
+    "developer": "מאיה מרום",
+    "baseId": "bhd11",
+    "baseName": "בה״ד 11",
+    "year": 2026,
+    "completionDate": "2026-10-01",
+    "platforms": [
+      "desktop"
+    ],
+    "description": "לומדה המועברת בהשלמת קצונה משא״ן מילואים ומלמדת על שימוש במערכת מדדי משא״ן ועל סוגי חריגים שהצוערים עלולים להיתקל בהם.",
+    "url": "https://madortill.github.io/lomdat-madaday-mashan/",
+    "cover": "assets/course-covers/lomdat-madaday-mashan.png",
+    "repository": "https://github.com/madortill/lomdat-madaday-mashan"
   },
   {
     "id": "lomdat-time-management",

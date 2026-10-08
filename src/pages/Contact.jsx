@@ -12,7 +12,6 @@ function ContactCard({ contact, type }) {
       </div>
       <h2>{contact.title}</h2>
       <p>{contact.rank} {contact.name}</p>
-      {type === "base" && <p>{contact.position}</p>}
       <a href={`tel:${phoneHref}`}>{contact.phone}</a>
     </article>
   );

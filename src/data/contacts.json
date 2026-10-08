@@ -21,55 +21,49 @@
     {
       "id": "bhd6",
       "title": "בה״ד 6",
-      "rank": "דרגה",
-      "name": "שם לדוגמה",
-      "position": "תפקיד לדוגמה",
-      "phone": "050-0000000",
+      "rank": "רס״ל",
+      "name": "הדר בן דוד",
+      "phone": "052-7721623",
       "logo": "assets/base-logos/bahad6-pink.png"
     },
     {
       "id": "bhd10",
       "title": "בה״ד 10",
-      "rank": "דרגה",
-      "name": "שם לדוגמה",
-      "position": "תפקיד לדוגמה",
-      "phone": "050-0000000",
+      "rank": "רס״ם",
+      "name": "אולגה ריידמן",
+      "phone": "054-4779050",
       "logo": "assets/base-logos/bahad10-pink.png"
     },
     {
       "id": "bhd11",
       "title": "בה״ד 11",
-      "rank": "דרגה",
-      "name": "שם לדוגמה",
-      "position": "תפקיד לדוגמה",
-      "phone": "050-0000000",
+      "rank": "סמ״ר",
+      "name": "איה גולן",
+      "phone": "050-9167337",
       "logo": "assets/base-logos/bahad11-pink.png"
     },
     {
       "id": "bhd13",
       "title": "בה״ד 13",
-      "rank": "דרגה",
-      "name": "שם לדוגמה",
-      "position": "תפקיד לדוגמה",
-      "phone": "050-0000000",
+      "rank": "סמ״ר",
+      "name": "אביחי וחוטינסקי",
+      "phone": "052-2702399",
       "logo": "assets/base-logos/bahad13-pink.png"
     },
     {
       "id": "bhd20",
       "title": "בה״ד 20",
-      "rank": "דרגה",
-      "name": "שם לדוגמה",
-      "position": "תפקיד לדוגמה",
-      "phone": "050-0000000",
+      "rank": "רס״ם",
+      "name": "שלומי אוגרן",
+      "phone": "052-5364232",
       "logo": "assets/base-logos/bahad20-pink.png"
     },
     {
       "id": "education",
       "title": "בה״ד חינוך",
-      "rank": "דרגה",
-      "name": "שם לדוגמה",
-      "position": "תפקיד לדוגמה",
-      "phone": "050-0000000",
+      "rank": "סמ״ר",
+      "name": "שחר בלישה",  
+      "phone": "050-2506044",
       "logo": "assets/base-logos/bahadHinuch-pink.png"
     }
   ]
