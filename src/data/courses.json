@@ -26,7 +26,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת ג'יפ סופה, פותחה כחלק ממארז הבט״ש. הלומדה משמשת כחומר התיאורטי בקורס נהיגת הבט״ש בבה״ד.",
+    "description": "לומדת ג'יפ סופה, פותחה כחלק ממארז הבט״ש. הלומדה משמשת ללימוד החומר התאורטי בקורס נהיגת הבט״ש בבה״ד.",
     "url": "https://madortill.github.io/batash-sufa/",
     "cover": "assets/course-covers/batash-sufa.png",
     "repository": "https://github.com/madortill/batash-sufa"
@@ -42,7 +42,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת ג'יפ דוד, פותחה כחלק ממארז הבט״ש. הלומדה משמשת כחומר התיאורטי בקורס נהיגת הבט״ש בבה״ד.",
+    "description": "לומדת ג'יפ דוד, פותחה כחלק ממארז הבט״ש. הלומדה משמשת ללימוד החומר התאורטי בקורס נהיגת הבט״ש בבה״ד.",
     "url": "https://madortill.github.io/batash-david/",
     "cover": "assets/course-covers/batash-david.png",
     "repository": "https://github.com/madortill/batash-david"
@@ -58,7 +58,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת סוואנה, פותחה כחלק ממארז הבט״ש. הלומדה משמשת כחומר התיאורטי בקורס נהיגת הבט״ש בבה״ד.",
+    "description": "לומדת סוואנה, פותחה כחלק ממארז הבט״ש. הלומדה משמשת ללימוד החומר התאורטי בקורס נהיגת הבט״ש בבה״ד.",
     "url": "https://madortill.github.io/lomdat-batash-savana/",
     "cover": "assets/course-covers/lomdat-batash-savana.png",
     "repository": "https://github.com/madortill/lomdat-batash-savana"
@@ -74,7 +74,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת ג'יפ טיגריס, פותחה כחלק ממארז הבט״ש. הלומדה משמשת כחומר התיאורטי בקורס נהיגת הבט״ש בבה״ד.",
+    "description": "לומדת ג'יפ טיגריס, פותחה כחלק ממארז הבט״ש. הלומדה משמשת ללימוד החומר התאורטי בקורס נהיגת הבט״ש בבה״ד.",
     "url": "https://madortill.github.io/batash_tigris/",
     "cover": "assets/course-covers/batash_tigris.png",
     "repository": "https://github.com/madortill/batash_tigris"
@@ -90,7 +90,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת הוראות בטיחות לנהיגת בט״ש, פותחה כחלק ממארז הבט״ש. הלומדה עוברת על הוראות הבטיחות הרלוונטיות לנהיגה בכל רכבי הבט״ש.",
+    "description": "לומדת הוראות בטיחות לנהיגת בט״ש, פותחה כחלק ממארז הבט״ש. הלומדה מלמדת על הוראות הבטיחות הרלוונטיות לנהיגה בכל רכבי הבט״ש.",
     "url": "https://madortill.github.io/batash-safety/",
     "cover": "assets/course-covers/batash-safety.png",
     "repository": "https://github.com/madortill/batash-safety"
@@ -123,7 +123,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת מעריכים מתעסקת בימי מיון ומסבירה על חשיבותם, מהלכם והעקרונות המנחים להעברתם בצה״ל. הלומדה כוללת סרטוני הדרכה ותרגול. פותחה עבור מדור פא״ר.",
+    "description": "לומדת מעריכים עוסקת בימי מיון ומסבירה על חשיבותם, מהלכם והעקרונות המנחים להעברתם בצה״ל. הלומדה כוללת סרטוני הדרכה ותרגול. פותחה עבור מדור פא״ר.",
     "url": "https://madortill.github.io/lomdat-evaluating/",
     "cover": "assets/course-covers/lomdat-evaluating.png",
     "repository": "https://github.com/madortill/lomdat-evaluating"
@@ -139,7 +139,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת ממשקי עבודה נמרכז גיוס פותחה עבור השלמת קצונת משא״ן. במהלך הלומדה הצוער לומד את הממשקים העיקריים ודרכי העבודה מול מרכז הגיוס.",
+    "description": "לומדה בנושא ממשקי עבודה מול מרכז הגיוס פותחה עבור השלמת קצונת משא״ן. במהלך הלומדה הצוער לומד את הממשקים העיקריים ודרכי העבודה מול מרכז הגיוס.",
     "url": "https://madortill.github.io/mrg-mashan/",
     "cover": "assets/course-covers/mrg-mashan.png",
     "repository": "https://github.com/madortill/mrg-mashan"
@@ -155,7 +155,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת כתיבת דוחות לקורס שוטרים צבאיים, מלמדת את החיילים איך לכתוב דוח מ״צ כראוי. הלומדה מועברת כחלק ממארז לומדות.",
+    "description": "לומדת כתיבת דוחות לקורס שוטרים צבאיים, מלמדת את החיילים איך לכתוב דו״ח מ״צ כראוי. הלומדה מועברת כחלק ממארז לומדות.",
     "url": "https://madortill.github.io/lomdat-traffic-reports/",
     "cover": "assets/course-covers/lomdat-traffic-reports.png",
     "repository": "https://github.com/madortill/lomdat-traffic-reports"
@@ -203,7 +203,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת שרשרת האספקה לקורס מש״קי לוגיסטיקה. הלומדה מלמדת את החיילים על שרשרת האספקה הצה״לית והשלבים שבה וחשיבותם.",
+    "description": "לומדת שרשרת האספקה לקורס מש״קי לוגיסטיקה. הלומדה מלמדת את החיילים על שרשרת האספקה הצה״לית, על שלביה ועל חשיבותם.",
     "url": "https://madortill.github.io/lomdat-supply-chain/",
     "cover": "assets/course-covers/supply-chain.png",
     "repository": "https://github.com/madortill/lomdat-supply-chain"
@@ -219,7 +219,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדה לקורס כליאה המיועדת ללמד את החיילים את חשיבות אסמכתאות הכליאה. החיילים לומדים על המסמכים השונים ואת חשיבותם והשפעתם על המשך התהליך של העצור.",
+    "description": "לומדה לקורס כליאה המיועדת ללמד את החיילים את חשיבות אסמכתאות הכליאה. החיילים לומדים על המסמכים השונים, על חשיבותם ועל השפעתם על המשך התהליך של העצור.",
     "url": "https://madortill.github.io/lomdat-klia-Bahad13/",
     "cover": "assets/course-covers/lomdat-klia.png",
     "repository": "https://github.com/madortill/lomdat-klia-Bahad13"
@@ -235,7 +235,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת דו״ח 1 מלמדת את קצינות המשא״ן על חשיבותו של דו״ח 1 ואיך לנהל אותו כראוי. הלומדה עוברת בהשלמת קצונת משא״ן.",
+    "description": "לומדת דו״ח 1 מלמדת את קצינות המשא״ן על חשיבותו של דו״ח 1 ואיך לנהל אותו כראוי. הלומדה מועברת בהשלמת קצונת משא״ן.",
     "url": "https://madortill.github.io/onePratLomda/",
     "cover": "assets/course-covers/onePratLomda.png",
      "repository": "https://github.com/madortill/onePratLomda"
@@ -251,7 +251,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדה אשר מטרתה ליצור יישור קו בין חיילים שעשו טירונות בבה״ד לבין אלו שעשו טירונות כללית. מועברת לפני תחילת הקורס אליו החייל שובץ.",
+    "description": "לומדה אשר מטרתה ליצור יישור קו בין חיילים שעשו טירונות בבה״ד לבין אלו שעשו טירונות כללית. מועברת לפני תחילת הקורס שאליו שובץ החייל.",
     "url": "https://madortill.github.io/complete-tironot-education/",
     "cover": "assets/course-covers/tironot-education.png",
     "repository": "https://github.com/madortill/complete-tironot-education"
@@ -331,7 +331,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "פקלון מידע לחייל הדתי במפקדת קריית ההדרכה. המכיל את המידע והזכויות של כל חייל דתי ומופץ לחיילים הרלוונטים. מתעדכן על פי צורך. פותח בעזרת מחולל הלומדות.",
+    "description": "פקלון מידע לחייל הדתי במפקדת קריית ההדרכה, המכיל את המידע והזכויות של כל חייל דתי ומופץ לחיילים הרלוונטיים. מתעדכן על פי צורך. פותח בעזרת מחולל הלומדות.",
     "url": "https://madortill.github.io/mida-lhaial-hadati/code/",
     "cover": "assets/course-covers/mida-lhaial-hadati.png",
     "repository": "https://github.com/madortill/mida-lhaial-hadati"
@@ -347,7 +347,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "פקלון מידע לחייל הדתי במפקדת קריית ההדרכה. מכיל את המידע והזכויות של כל חייל דתי ומופץ לחיילים הרלוונטים. מתעדכן על פי צורך. פותח בעזרת מחולל הלומדות.",
+    "description": "פקלון מידע לחייל הדתי במפקדת קריית ההדרכה. מכיל את המידע והזכויות של כל חייל דתי ומופץ לחיילים הרלוונטיים. מתעדכן על פי צורך. פותח בעזרת מחולל הלומדות.",
     "url": "https://mador-till-prod.github.io/midaLhaialHadati/code/",
     "cover": "assets/course-covers/midaLhaialHadati.png",
     "repository": "https://github.com/mador-till-prod/midaLhaialHadati"
@@ -510,7 +510,7 @@
       "desktop",
       "mobile"
     ],
-    "description": "מועברת בקורס שוטרים במשטרה צבאית, מטרתה ללמוד על נוהל חקירת חשוד בדגש על מילוי טפסי מעצר. הלומדה כוללת תרגול באמצעות סיפור מקרה ומילוי המסמכים הרלוונטים.",
+    "description": "מועברת בקורס שוטרים במשטרה צבאית, מטרתה ללמד את החיילים על נוהל חקירת חשוד בדגש על מילוי טפסי מעצר. הלומדה כוללת תרגול באמצעות סיפור מקרה ומילוי המסמכים הרלוונטיים.",
     "url": "https://madortill.github.io/arrestDocuments/",
     "cover": "assets/course-covers/arrestDocuments.png",
     "repository": "https://github.com/madortill/arrestDocuments"
@@ -526,7 +526,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדה המועברת בהשלמת קצונה משא״ן מילואים ומלמדת על שימוש במערכת מדדי משא״ן ועל סוגי חריגים שהצוערים עלולים להיתקל בהם.",
+    "description": "לומדה המועברת בהשלמת קצונת משא״ן מילואים ומלמדת על שימוש במערכת מדדי משא״ן ועל סוגי חריגים שהצוערים עלולים להיתקל בהם.",
     "url": "https://madortill.github.io/lomdat-madaday-mashan/",
     "cover": "assets/course-covers/lomdat-madaday-mashan.png",
     "repository": "https://github.com/madortill/lomdat-madaday-mashan"
@@ -574,7 +574,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "פקלון מושגים בעולם הצפ״ה הכולל כרטיסיות , תרגול, בוחן ומשחק התאמת מושגים",
+    "description": "פקלון מושגים בעולם הצפ״ה הכולל כרטיסיות, תרגול, בוחן ומשחק התאמת מושגים",
     "url": "https://madortill.github.io/Moshagim-in-zapa/",
     "cover": "assets/course-covers/Moshagim-in-zapa.png",
     "repository": "https://github.com/madortill/Moshagim-in-zapa"
@@ -645,7 +645,7 @@
   },
   {
     "id": "MevootMacam",
-    "title": "מבואות - קורס מכם",
+    "title": "מבואות - קורס מכ״ם",
     "developer": "דני שריקי",
     "baseId": "bhd20",
     "baseName": "בה״ד 20",
@@ -654,7 +654,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות - נוצרה בעזרת מחולל הלומדות. נוצרה עבור קורס טכנאי מכם.",
+    "description": "לומדת כרטיסיות - נוצרה בעזרת מחולל הלומדות. נוצרה עבור קורס טכנאי מכ״ם.",
     "url": "https://madortill.github.io/generic-cards/code/?path=50310",
     "cover": "assets/course-covers/MaanePikudi.png",
     "repository": "https://github.com/madortill/generic-cards"
@@ -670,7 +670,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות - נוצרה בעזרת מחולל הלומדות. נוצרה כחלק מהכשרת PFI שלימדה בעלי תפקידים בקריית התקשוב על תפקידם ממקבילם במפקדת קריית ההדרכה. המארז כלל 15 לומדות כניסה לתפקיד.",
+    "description": "לומדת כרטיסיות - נוצרה בעזרת מחולל הלומדות. נוצרה כחלק מהכשרת PFI שלימדה בעלי תפקידים בקריית התקשוב על תפקידם ממקביליהם במפקדת קריית ההדרכה. המארז כלל 15 לומדות כניסה לתפקיד.",
     "url": "https://madortill.github.io/generic-cards/code/?path=54856",
     "cover": "assets/course-covers/NewPosition.png",
     "repository": "https://github.com/madortill/generic-cards"
@@ -687,7 +687,7 @@
       "desktop", 
       "mobile"
     ],
-    "description": "לומדת מתן דם מלא שפותחה עבור רופאים ופראמדיקים. הלומדה עוברת כחלק מהכשרה מחייבת לרענון החומר בקמפוס הדיגיטלי וכוללת חזרה על החומר ומבחן מסכם.",
+    "description": "לומדת מתן דם מלא שפותחה עבור רופאים ופראמדיקים. הלומדה מועברת כחלק מהכשרה מחייבת לרענון החומר בקמפוס הדיגיטלי וכוללת חזרה על החומר ומבחן מסכם.",
     "url": "https://madortill.github.io/BloodDonation/",
     "cover": "assets/course-covers/BloodDonation.png",
     "repository": "https://github.com/madortill/BloodDonation"
@@ -799,7 +799,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות למש״קי ת״ש הכוללת מידע בנושאים השונים הקשורים בעבודתן וגם תרגול ומבחן בנושא. הלומדה פותחה באמצעות מחולל הלומדות.",
+    "description": "לומדת כרטיסיות למש״קי ת״ש הכוללת מידע בנושאים השונים הקשורים בעבודתם וגם תרגול ומבחן בנושא. הלומדה פותחה באמצעות מחולל הלומדות.",
     "url": "https://madortill.github.io/tash-cards-new/code/",
     "cover": "assets/course-covers/tash-cards-new.png",
     "repository": "https://github.com/madortill/tash-cards-new"
@@ -815,7 +815,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "מחשבון חילוץ הפותח עבור קורס חילוץ ומשמש לתרגול וגם ככלי עזר לכוחות החילוץ בשטח.",
+    "description": "מחשבון חילוץ שפותח עבור קורס חילוץ ומשמש לתרגול וגם ככלי עזר לכוחות החילוץ בשטח.",
     "url": "https://madortill.github.io/RescueCalculator/",
     "cover": "assets/course-covers/RescueCalculator.png",
     "repository": "https://github.com/madortill/RescueCalculator"
@@ -838,7 +838,7 @@
   },
   {
     "id": "CaringAndTakingCarePrat",
-    "title": "לומדת הדאגה וטיפול בפרט",
+    "title": "לומדת הדאגה והטיפול בפרט",
     "developer": "ניצן סלומון, אדוה אבא, דני שריקי",
     "baseId": "hq",
     "baseName": "מפקדה",
@@ -847,7 +847,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות לקומ״כ בבית הספר לפיקוד. הלומדה כוללת כרטיסיות לימוד המחולקות לשני סוגי הפיקודים (קורס, טירונים) ובה מידע התואם לכל סוג פיקוד וגם מלווה במבחן מסכם על החומר.",
+    "description": "לומדת כרטיסיות לקומ״כ בבית הספר לפיקוד. הלומדה כוללת כרטיסיות לימוד המחולקות לשני סוגי פיקוד (פיקוד בקורס ופיקוד על טירונים) ובהן מידע התואם לכל סוג פיקוד וגם מלווה במבחן מסכם על החומר.",
     "url": "https://madortill.github.io/CaringAndTakingCarePrat/code/",
     "cover": "assets/course-covers/CaringAndTakingCarePrat.png",
     "repository": "https://github.com/madortill/CaringAndTakingCarePrat"
@@ -879,7 +879,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "מחולל הלומדות של מדור טי״ל. בעזרת המחולל כל אחד יכול להכין בעצמו לומדת כרטיסיות שתתאים לצרכים שלו בקלות ובמהירות. ניתן להוסיף גם תרגול או במבחן על החומר הנלמד.",
+    "description": "מחולל הלומדות של מדור טי״ל. בעזרת המחולל כל אחד יכול להכין בעצמו לומדת כרטיסיות שתתאים לצרכים שלו בקלות ובמהירות. ניתן להוסיף גם תרגול או מבחן על החומר הנלמד.",
     "url": "https://madortill.github.io/cardsGenerator/",
     "cover": "assets/course-covers/cardsGenerator.png",
     "repository": "https://github.com/madortill/cardsGenerator"
@@ -920,7 +920,7 @@
   {
     "id": "lomadtTAAM",
     "title": "לומדת תעסוקה מבצעית",
-    "developer": "ניתן סלומון, אדוה אבא",
+    "developer": "ניצן סלומון, אדוה אבא",
     "baseId": "bhd10",
     "baseName": "בה״ד 10",
     "year": 2024,
@@ -928,7 +928,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות העוסקת בליווי והכנת החייל לכניסה לתעסוקה מבצעית ומלווה אותו בכניסה לתפקיד. בסוף הלומדה יש מבחן שהוא תנאי מחייב לתפיסת כוננות גזרתית.",
+    "description": "לומדת כרטיסיות העוסקת בליווי החייל ובהכנתו לכניסה לתעסוקה מבצעית ומלווה אותו בכניסה לתפקיד. בסוף הלומדה יש מבחן שהוא תנאי מחייב לתפיסת כוננות גזרתית.",
     "url": "https://madortill.github.io/lomadtTAAM/code/",
     "cover": "assets/course-covers/lomadtTAAM.png",
     "repository": "https://github.com/madortill/lomadtTAAM"
@@ -1153,7 +1153,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדת טכניקות מסירה (עמידה מול קהל). פותחה עבור בית הספר לפיקוד הדרכה.",
+    "description": "לומדת טכניקות מסירה (עמידה מול קהל). פותחה עבור בית הספר לפיקוד והדרכה.",
     "url": "https://madortill.github.io/deliveryTechniques/",
     "cover": "assets/course-covers/deliveryTechniques.png",
     "repository": "https://github.com/madortill/deliveryTechniques"
@@ -1169,7 +1169,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת סימנים מוסכמים. במהלך הלומדה אפשר לבחור בין סימני רק״ם או מנופים וללמוד על הסימנים השונים המתאימים לכל תחום. הלומדה כוללת סרטונים ותרגול.",
+    "description": "לומדת סימנים מוסכמים. במהלך הלומדה אפשר לבחור בין סימני רק״ם לסימני מנופים וללמוד על הסימנים השונים המתאימים לכל תחום. הלומדה כוללת סרטונים ותרגול.",
     "url": "https://madortill.github.io/web_AgreedSigns_bhd20/",
     "cover": "assets/course-covers/web_AgreedSigns_bhd20.png",
     "repository": "https://github.com/madortill/web_AgreedSigns_bhd20"
@@ -1201,7 +1201,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "טמפלייט ללומדות גנריות מסוג תקן 15. הטמפלייט כולל כרטיסיות לימוד בנושאים שונים ומבחן. קיימת גרסת מחשב וטלפון נפרדות וגם גרסה באנגלית (ב-git).",
+    "description": "טמפלייט ללומדות גנריות מסוג תקן 15. הטמפלייט כולל כרטיסיות לימוד בנושאים שונים ומבחן. קיימות גרסאות נפרדות למחשב ולטלפון וגם גרסה באנגלית (ב-git).",
     "url": "https://madortill.github.io/teken15-generic/code/",
     "cover": "assets/course-covers/teken15-generic.png",
     "repository": "https://github.com/madortill/teken15-generic"
@@ -1297,7 +1297,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "פקלון הכנה לקצונה הפותח עבור בה״ד 20.",
+    "description": "פקלון הכנה לקצונה שפותח עבור בה״ד 20.",
     "url": "https://madortill.github.io/officerspreparation/www/#/home",
     "cover": "assets/course-covers/officerspreparation.png",
     "repository": "https://github.com/madortill/officerspreparation"
@@ -1489,7 +1489,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות על אמצעים אופטיים. פותח בעזרת תקן 15.",
+    "description": "לומדת כרטיסיות על אמצעים אופטיים. פותחה בעזרת תקן 15.",
     "url": "https://madortill.github.io/web-electronics-bhd20/code/",
     "cover": "assets/course-covers/web-electronics-bhd20.png",
     "repository": "https://github.com/madortill/web-electronics-bhd20"
@@ -1529,7 +1529,7 @@
   {
     "id": "lomda-cards-theory",
     "title": "לומדת תיאוריה",
-    "developer": "הלה צביון, תומי פוליאקובף דורין חתוקה",
+    "developer": "הלה צביון, תומי פוליאקוב, דורין חתוקה",
     "baseId": "bhd6",
     "baseName": "בה״ד 6",
     "year": 2021,
@@ -1585,7 +1585,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות בנושא עגה עבריינית הכוללת תרגול ומבחן. פותח באמצעות מחולל הלומדות.",
+    "description": "לומדת כרטיסיות בנושא עגה עבריינית הכוללת תרגול ומבחן. פותחה באמצעות מחולל הלומדות.",
     "url": "https://madortill.github.io/agaAvarianit-cards-bhd13/code/",
     "cover": "assets/course-covers/agaAvarianit-cards-bhd13.png",
     "repository": "https://github.com/madortill/agaAvarianit-cards-bhd13"
@@ -1601,7 +1601,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת חמ״ץ הכוללת מידע חיוני לכל משרת בחיל המשטרה הצבאית. פותח באמצעות מחולל הלומדות.",
+    "description": "לומדת חמ״ץ הכוללת מידע חיוני לכל משרת בחיל המשטרה הצבאית. פותחה באמצעות מחולל הלומדות.",
     "url": "https://madortill.github.io/bhd13-hamatz-cards/code/",
     "cover": "assets/course-covers/bhd13-hamatz-cards.png",
     "repository": "https://github.com/madortill/bhd13-hamatz-cards"
@@ -1609,7 +1609,7 @@
   {
     "id": "dental-assistants",
     "title": "מושגון סייעות שיניים",
-    "developer": "מיה לבנה, ענבל עפגין",
+    "developer": "מיה ליבנה, ענבל עפגין",
     "baseId": "bhd10",
     "baseName": "בה״ד 10",
     "year": 2021,
@@ -1633,7 +1633,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "מקבץ לומדות לקורס חובשים המספקות מידע על תרופות וכוללת גם מבחן.",
+    "description": "מקבץ לומדות לקורס חובשים המספקות מידע על תרופות וכוללות גם מבחן.",
     "url": "https://madortill.github.io/teken15/code/",
     "cover": "assets/course-covers/teken15.png",
     "repository": "https://github.com/madortill/teken15"
@@ -1649,7 +1649,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות על זכויות וחובות הכלוא הכוללת תרגול. פותח באמצעות מחולל הלומדות",
+    "description": "לומדת כרטיסיות על זכויות וחובות הכלוא הכוללת תרגול. פותחה באמצעות מחולל הלומדות",
     "url": "https://madortill.github.io/lomda-prisoner-rights-bhd13/code/",
     "cover": "assets/course-covers/lomda-prisoner-rights-bhd13.png",
     "repository": "https://github.com/madortill/lomda-prisoner-rights-bhd13"
@@ -1665,7 +1665,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כרטיסיות עם מידע לחייל הדתי. פותח באמצעות מחולל הלומדות",
+    "description": "לומדת כרטיסיות עם מידע לחייל הדתי. פותחה באמצעות מחולל הלומדות",
     "url": "https://madortill.github.io/lomdaLravCheck/code/",
     "cover": "assets/course-covers/lomdaLravCheck.png",
     "repository": "https://github.com/madortill/lomdaLravCheck"
@@ -1819,7 +1819,7 @@
   {
     "id": "tozarim-mutamim",
     "title": "מושגים בעולם הצפ״ה",
-    "developer": "תומי בוליאקוב, גל גנסין",
+    "developer": "תומי פוליאקוב, גל גנסין",
     "baseId": "hq",
     "baseName": "מפקדה",
     "year": 2020,
@@ -1827,7 +1827,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "פקלון מושגים בעולם הצפ״ה הכולל כרטיסיות , תרגול, בוחן ומשחק התאמת מושגים",
+    "description": "פקלון מושגים בעולם הצפ״ה הכולל כרטיסיות, תרגול, בוחן ומשחק התאמת מושגים",
     "url": "https://madortill.github.io/tozarim-mutamim/Moshagim-in-zapa/",
     "cover": "assets/course-covers/tozarim-mutamim.png",
     "repository": "https://github.com/madortill/tozarim-mutamim"
@@ -1860,7 +1860,7 @@
       "desktop",
       "mobile"
     ],
-    "description": "מניפה דיגיטלית המאגדת 5 שיטות למידה שונות. הכוללת הסברים וחלוקה של השיעור לפי המערך.",
+    "description": "מניפה דיגיטלית המאגדת 5 שיטות למידה שונות והכוללת הסברים וחלוקה של השיעור לפי המערך.",
     "url": "https://madortill.github.io/digital-fan/",
     "cover": "assets/course-covers/digital-fan.png",
     "repository": "https://github.com/madortill/digital-fan"
@@ -1884,7 +1884,7 @@
   {
     "id": "the-race-tsapa",
     "title": "המירוץ לבסיס לצפ״ה",
-    "developer": "הלב צביון, גלי חיימוביץ'",
+    "developer": "הלה צביון, גלי חיימוביץ'",
     "baseId": "hq",
     "baseName": "מפקדה",
     "year": 2020,
@@ -1908,7 +1908,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "מחשבון נהג חדש המחשב ומסדר את התהליך הנדרש להוצאת רישיון נהיגה לפי הרישיון הקיים לנהג והרכב עליו הוא נוהג.",
+    "description": "מחשבון נהג חדש המחשב ומסדר את התהליך הנדרש להוצאת רישיון נהיגה לפי הרישיון הקיים לנהג והרכב שבו הוא נוהג.",
     "url": "https://madortill.github.io/BHD6DrivingCalculator/",
     "cover": "assets/course-covers/BHD6DrivingCalculator.png",
     "repository": "https://github.com/madortill/BHD6DrivingCalculator"
@@ -1916,7 +1916,7 @@
   {
     "id": "The-Race",
     "title": "המירוץ לבסיס",
-    "developer": "הלב צביון, גלי חיימוביץ'",
+    "developer": "הלה צביון, גלי חיימוביץ'",
     "baseId": "hq",
     "baseName": "מפקדה",
     "year": 2020,
@@ -1924,7 +1924,7 @@
     "platforms": [
       "desktop"
     ],
-    "description": "לומדה גנרית - המירוץ לבסיס. כולל מספר משחקי תרגול.",
+    "description": "לומדה גנרית - המירוץ לבסיס. כוללת מספר משחקי תרגול.",
     "url": "https://madortill.github.io/The-Race/main",
     "cover": "assets/course-covers/The-Race.png",
     "repository": "https://github.com/madortill/The-Race"
@@ -1972,7 +1972,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת כללי בטיחות לחיילים חדשים בקריית ההדרכה הכוללת כרטיסיות מידע, תרגול ומבחן מסכם. פותח באמצעות מחולל הלומדות.",
+    "description": "לומדת כללי בטיחות לחיילים חדשים בקריית ההדרכה הכוללת כרטיסיות מידע, תרגול ומבחן מסכם. פותחה באמצעות מחולל הלומדות.",
     "url": "https://mador-till-prod.github.io/safety-cards-mifkada/code/",
     "cover": "assets/course-covers/safety-cards-mifkada.png",
     "repository": "https://github.com/mador-till-prod/safety-cards-mifkada"
@@ -1988,7 +1988,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת טכניקות מסירה (עמידה מול קהל). פותחה עבור בית הספר לפיקוד הדרכה. גרסה לטלפון",
+    "description": "לומדת טכניקות מסירה (עמידה מול קהל). פותחה עבור בית הספר לפיקוד והדרכה. גרסה לטלפון",
     "url": "https://mador-till-prod.github.io/deliveryTechniques/",
     "cover": "assets/course-covers/deliveryTechniques-prod.png",
     "repository": "https://github.com/mador-till-prod/deliveryTechniques"
@@ -2020,7 +2020,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת הוראות בטיחות הכוללת כרטיסיות בכל נושאי הבטיחות. הלומדה כוללת תרגול. פותח באמצעות מחולל הלומדות.",
+    "description": "לומדת הוראות בטיחות הכוללת כרטיסיות בכל נושאי הבטיחות. הלומדה כוללת תרגול. פותחה באמצעות מחולל הלומדות.",
     "url": "https://mador-till-prod.github.io/safty_bhd6/code/",
     "cover": "assets/course-covers/safty_bhd6.png",
     "repository": "https://github.com/mador-till-prod/safty_bhd6"
@@ -2150,7 +2150,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "לומדת טופסולוגיה לכנס מגל משימה חמישית קופסאות בריחה",
+    "description": "לומדת טופסולוגיה לכנס מגל - משימה חמישית קופסאות בריחה",
     "url": "https://mador-till-prod.github.io/fifth-mission-magal/skarim-mitkadmim-exer",
     "cover": "assets/course-covers/fifth-mission-magal.png",
     "repository": "https://github.com/mador-till-prod/fifth-mission-magal"
@@ -2166,7 +2166,7 @@
     "platforms": [
       "mobile"
     ],
-    "description": "משחק התאמת מנהיגים להסבר המתאים עליהם.",
+    "description": "משחק התאמת מנהיגים להסברים המתאימים להם.",
     "url": "https://mador-till-prod.github.io/matching/main",
     "cover": "assets/course-covers/matching.png",
     "repository": "https://github.com/mador-till-prod/matching"
