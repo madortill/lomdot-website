@@ -1,1 +1,8 @@
-{ "featuredCourseIds": ["batash", "agoran","arrestDocuments", "heter-hul"] }
+{
+    "featuredCourseIds": [
+        "batash",
+        "agoran",
+        "arrestDocuments",
+        "heter-hul"
+    ]
+}

@@ -12,9 +12,9 @@
       "id": "mapal-team-lead",
       "title": "רש״צ מפ״ל",
       "rank": "סמל",
-      "name": "גילי נחום",
+      "name": "ירין חנה טובול",
       "position": "רש״צ מפ״ל",
-      "phone": "058-4990739"
+      "phone": "054-4871109"
     }
   ],
   "baseContacts": [
@@ -27,10 +27,18 @@
       "logo": "assets/base-logos/bahad6-pink.png"
     },
     {
+      "id": "bhd7",
+      "title": "בה״ד 7",
+      "rank": "סמ״ר",
+      "name": "קסם כהן",
+      "phone": "050-2552110",
+      "logo": "assets/base-logos/bahad7-pink.png"
+    },
+    {
       "id": "bhd10",
       "title": "בה״ד 10",
       "rank": "רס״ם",
-      "name": "אולגה ריידמן",
+      "name": "אולגה ריידרמן גולן",
       "phone": "054-4779050",
       "logo": "assets/base-logos/bahad10-pink.png"
     },
